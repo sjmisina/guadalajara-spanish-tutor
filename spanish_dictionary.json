@@ -57,6 +57,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "abeja",
+    "english": "bee",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la abeja; las abejas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "abierto",
     "english": "open (past participle of abrir)",
     "part_of_speech": "adjective/participle",
@@ -196,8 +210,8 @@
     "grammar_notes": "Se usa con ESTAR para estado: estoy aburrido; con SER para rasgo permanente: es aburrido",
     "grammar_rule": "Adjective: SER (permanent) vs ESTAR (temporary) — meaning shifts",
     "categories": [
-      "Ropa y accesorios",
-      "Emociones y estados"
+      "Emociones y estados",
+      "Descripción personal"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -254,8 +268,8 @@
     "grammar_notes": "el acordeón",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Cultura tapatía",
-      "Rutinas diarias"
+      "Casa y hogar",
+      "Cultura tapatía"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -394,6 +408,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "águila",
+    "english": "eagle",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "el águila (toma 'el' en singular por empezar con a- tónica, sigue siendo femenino) / la águila hembra; las águilas",
+    "grammar_rule": "Feminine noun (takes 'el' before stressed a-)",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ahora",
     "english": "now",
     "part_of_speech": "adverb",
@@ -419,6 +447,35 @@
     ],
     "tapatio": true,
     "tapatio_notes": "Se usa ampliamente en las salsas y guisos tapatíos 🌵🌶️",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "ala",
+    "english": "wing",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "el ala (toma 'el' en singular por empezar con a- tónica, sigue siendo femenino) / las alas",
+    "grammar_rule": "Feminine noun (takes 'el' before stressed a-)",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "alacrán",
+    "english": "scorpion",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el alacrán; los alacranes",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cultura tapatía",
+      "Animales"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 Palabra de uso diario en México, más común que 'escorpión'. Durango (vecino de Jalisco) es famoso mundialmente por sus alacranes.",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -508,6 +565,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": false
+  },
+  {
+    "word": "aleta",
+    "english": "fin / flipper",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la aleta; las aletas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "algodón",
@@ -775,6 +846,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "animal",
+    "english": "animal",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el animal; los animales",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ansiedad",
     "english": "anxiety",
     "part_of_speech": "noun (f)",
@@ -978,7 +1063,22 @@
     "grammar_notes": "Se refiere a algo lejano tanto del hablante como del oyente; aquellos/aquellas (pl)",
     "grammar_rule": "Demonstrative adjective/pronoun (3-way distance: este/ese/aquel)",
     "categories": [
+      "Orientación y direcciones",
       "Gramática funcional"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "araña",
+    "english": "spider",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la araña; las arañas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -999,6 +1099,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "ardilla",
+    "english": "squirrel",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la ardilla; las ardillas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "aretes",
@@ -1162,6 +1276,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "avestruz",
+    "english": "ostrich",
+    "part_of_speech": "noun (m/f)",
+    "grammar_notes": "el avestruz (forma predominante en México) / la avestruz; los avestruces (plural irregular: -z → -ces)",
+    "grammar_rule": "Noun: invariable form",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "axila",
     "english": "armpit",
     "part_of_speech": "noun (f)",
@@ -1278,6 +1406,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Casa y hogar"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "ballena",
+    "english": "whale",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la ballena; las ballenas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -1473,7 +1615,8 @@
     "grammar_notes": "la biblioteca / las bibliotecas",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Ropa y accesorios"
+      "Casa y hogar",
+      "Ciudad y transporte"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -1487,6 +1630,7 @@
     "grammar_notes": "Se usa con ESTAR: estoy bien. NO es adjetivo; no se usa con SER",
     "grammar_rule": "Adverb",
     "categories": [
+      "Rutinas diarias",
       "Comunicación y cortesía",
       "Gramática funcional"
     ],
@@ -1547,7 +1691,8 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Ciudad y transporte",
-      "Cantidades y comparaciones"
+      "Rutinas diarias",
+      "Gramática funcional"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -1669,6 +1814,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "borrego",
+    "english": "sheep (ram/ewe)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el borrego / la borrega; los borregos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 En México 'borrego' se usa tanto o más que 'oveja' en el habla cotidiana — lo oirás mucho en el mercado y en el campo cerca de Guadalajara.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "brasier",
     "english": "bra",
     "part_of_speech": "noun (m)",
@@ -1780,21 +1940,76 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "búho",
+    "english": "owl",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el búho; los búhos (sinónimo regional: tecolote, de origen náhuatl)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "burro",
+    "english": "donkey",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el burro / la burra; los burros",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "caballo",
+    "english": "horse",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el caballo / la yegua; los caballos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "cabello",
-    "english": "hair (Mexican/formal — preferred over pelo)",
+    "english": "hair",
     "part_of_speech": "noun (m)",
     "grammar_notes": "el cabello; término formal/mexicano preferido; tener el cabello lacio",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Descripción personal",
       "Anatomía y cuerpo",
+      "Descripción personal",
       "Cultura tapatía"
     ],
     "tapatio": true,
     "tapatio_notes": "Mexicans prefer cabello over pelo in formal usage 🌵",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 1,
-    "_seed": false
+    "leitner_sessions_until_due": 1
+  },
+  {
+    "word": "cabra",
+    "english": "goat",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la cabra; las cabras (macho: el chivo, ya en el diccionario)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "cacahuate",
@@ -1808,6 +2023,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "Tapatíos say cacahuate; Spaniards say cacahuete; Caribbean say maní 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "cachorro",
+    "english": "puppy / cub (baby animal)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el cachorro / la cachorra; los cachorros",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -1912,6 +2141,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "Tapatíos say calzón; Spaniards say braga 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "camello",
+    "english": "camel",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el camello / la camella; los camellos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -2037,6 +2280,34 @@
     ],
     "tapatio": true,
     "tapatio_notes": "Tapatíos say camote; Spaniards say boniato or batata 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "cangrejo",
+    "english": "crab",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el cangrejo; los cangrejos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "canguro",
+    "english": "kangaroo",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el canguro; los canguros (forma femenina poco usada: la canguro)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -2173,7 +2444,8 @@
     "grammar_notes": "la caricatura; en México = caricatura animada",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Ciudad y transporte",
+      "Descripción personal",
+      "Gramática funcional",
       "Cultura tapatía"
     ],
     "tapatio": true,
@@ -2369,6 +2641,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "cebra",
+    "english": "zebra",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la cebra; las cebras (forma única para ambos sexos)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "cejas",
     "english": "eyebrows",
     "part_of_speech": "noun (f pl)",
@@ -2481,6 +2767,20 @@
       "nosotros": "nos cepillábamos",
       "ellos/ellas": "se cepillaban"
     },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "cerdo",
+    "english": "pig",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el cerdo / la cerda; sinónimos muy comunes en México: puerco, marrano; los cerdos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -2792,7 +3092,7 @@
   },
   {
     "word": "chivo",
-    "english": "goat",
+    "english": "goat (meat)",
     "part_of_speech": "noun (m)",
     "grammar_notes": "el chivo / los chivos",
     "grammar_rule": "Masculine noun",
@@ -2988,6 +3288,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "cocodrilo",
+    "english": "crocodile",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el cocodrilo / la cocodrila; los cocodrilos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "código postal",
     "english": "zip code / postal code",
     "part_of_speech": "noun phrase (m)",
@@ -3050,6 +3364,20 @@
     "_seed": false
   },
   {
+    "word": "colibrí",
+    "english": "hummingbird",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el colibrí; los colibríes",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "collar",
     "english": "necklace / collar",
     "part_of_speech": "noun (m)",
@@ -3057,6 +3385,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Ropa y accesorios"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "colmillo",
+    "english": "fang / tusk",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el colmillo; los colmillos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -3263,7 +3605,8 @@
     "grammar_rule": "Regular -AR verb",
     "categories": [
       "Alimentación",
-      "Ciudad y transporte"
+      "Ciudad y transporte",
+      "Rutinas diarias"
     ],
     "gerund": "comprando",
     "past_participle": "comprado",
@@ -3352,14 +3695,26 @@
     "grammar_notes": "el conducto biliar / los conductos biliares",
     "grammar_rule": "Compound noun phrase",
     "categories": [
-      "Anatomía y cuerpo",
-      "Medicina y tratamiento"
+      "Anatomía y cuerpo"
     ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 1,
-    "_seed": false
+    "leitner_sessions_until_due": 1
+  },
+  {
+    "word": "conejo",
+    "english": "rabbit",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el conejo / la coneja; los conejos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "confundido",
@@ -3614,6 +3969,21 @@
     "_seed": false
   },
   {
+    "word": "coyote",
+    "english": "coyote",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el coyote / la coyota; los coyotes",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 Del náhuatl 'coyotl' — animal emblemático de México, presente en la mitología prehispánica y en el habla cotidiana hasta hoy.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "cráneo",
     "english": "skull",
     "part_of_speech": "noun (m)",
@@ -3654,6 +4024,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "La crema sobre los tacos y tostadas es un indispensable tapatío 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "cría",
+    "english": "baby animal / offspring",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la cría; las crías (bebé de cualquier animal)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -3813,6 +4197,20 @@
     "_seed": false
   },
   {
+    "word": "cuerno",
+    "english": "horn (of an animal)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el cuerno; los cuernos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "cuerpo",
     "english": "body",
     "part_of_speech": "noun (m)",
@@ -3826,6 +4224,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "cuervo",
+    "english": "crow / raven",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el cuervo; los cuervos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "cuñada",
@@ -4010,6 +4422,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "delfín",
+    "english": "dolphin",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el delfín; los delfines",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "delgado",
@@ -4854,6 +5280,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "elefante",
+    "english": "elephant",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el elefante / la elefanta; los elefantes",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "elote",
     "english": "corn on the cob",
     "part_of_speech": "noun (m)",
@@ -5170,7 +5610,9 @@
     "grammar_notes": "el episodio / los episodios",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Rutinas diarias"
+      "Salud y síntomas",
+      "Rutinas diarias",
+      "Tiempo y frecuencia"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -5456,6 +5898,7 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Emociones y estados",
+      "Descripción personal",
       "Comunicación y cortesía"
     ],
     "tapatio": false,
@@ -5555,9 +5998,10 @@
     "grammar_notes": "la feria; en español estándar significa 'feria/festival', pero en México comúnmente significa monedas, cambio o dinero en general. ¿Tienes feria? = ¿Tienes cambio/efectivo?",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Cultura tapatía",
+      "Ciudad y transporte",
       "Cantidades y comparaciones",
-      "Comunicación y cortesía"
+      "Comunicación y cortesía",
+      "Cultura tapatía"
     ],
     "tapatio": true,
     "tapatio_notes": "🌵 Argot mexicano/tapatío para efectivo o cambio. La famosa Feria Internacional de Guadalajara también es donde gastarás toda tu feria.",
@@ -5640,6 +6084,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "flamenco",
+    "english": "flamingo",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el flamenco; los flamencos (¡cuidado! 'flamenco' también es un estilo de baile y música español)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "flojo",
     "english": "lazy / loose",
     "part_of_speech": "adjective",
@@ -5663,6 +6121,20 @@
     "categories": [
       "Cultura tapatía",
       "Casa y hogar"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "foca",
+    "english": "seal",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la foca; las focas (se aclara con 'foca macho/hembra')",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -5778,6 +6250,7 @@
     "grammar_rule": "Feminine noun",
     "categories": [
       "Casa y hogar",
+      "Ciudad y transporte",
       "Cultura tapatía"
     ],
     "tapatio": true,
@@ -5818,6 +6291,34 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "gallina",
+    "english": "hen",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la gallina; las gallinas (macho: el gallo)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "gallo",
+    "english": "rooster",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el gallo; los gallos (hembra: la gallina)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ganas",
     "english": "desire / eagerness",
     "part_of_speech": "noun (f pl)",
@@ -5844,6 +6345,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "🌵 Juicio moral común en México/Tapatio. Llamar a alguien gandalla es una acusación de verdad — significa que es del tipo que recibe pero no da.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "ganso",
+    "english": "goose",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el ganso / la gansa; los gansos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -5877,6 +6392,20 @@
     "_seed": false
   },
   {
+    "word": "garra",
+    "english": "claw",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la garra; las garras",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "gastroenterólogo",
     "english": "gastroenterologist",
     "part_of_speech": "noun (m/f)",
@@ -5898,7 +6427,8 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Rutinas diarias",
-      "Familia y relaciones"
+      "Familia y relaciones",
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -5980,6 +6510,34 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "gorila",
+    "english": "gorilla",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el gorila; los gorilas (forma femenina poco usada: la gorila)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "gorrión",
+    "english": "sparrow",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el gorrión; los gorriones",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "gracias",
     "english": "thank you",
     "part_of_speech": "interjection",
@@ -6016,6 +6574,20 @@
     "grammar_rule": "Adjective: apocopated before masculine singular noun",
     "categories": [
       "Descripción personal"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "granja",
+    "english": "farm",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la granja; las granjas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -6062,6 +6634,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "¡Guácala! es LA exclamación tapatía del asco 🌵🤢",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "guacamaya",
+    "english": "macaw",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la guacamaya; las guacamayas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -6302,6 +6888,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "hámster",
+    "english": "hamster",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el hámster; los hámsteres (plural recomendado por la RAE; también se oye 'hámsters')",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "hay",
     "english": "there is / there are",
     "part_of_speech": "verb (impersonal)",
@@ -6334,6 +6934,20 @@
     "grammar_rule": "Irregular past participle (adjective use)",
     "categories": [
       "Gramática funcional"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "hembra",
+    "english": "female (animal)",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la hembra; las hembras",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -6436,6 +7050,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Familia y relaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "hiena",
+    "english": "hyena",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la hiena; las hienas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -6546,6 +7174,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "hipopótamo",
+    "english": "hippopotamus",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el hipopótamo; los hipopótamos (forma femenina poco usada: hipopótama)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "historial médico",
     "english": "medical history",
     "part_of_speech": "noun phrase (m)",
@@ -6562,6 +7204,20 @@
     "_seed": false
   },
   {
+    "word": "hocico",
+    "english": "snout / muzzle",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el hocico; los hocicos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "hombros",
     "english": "shoulders",
     "part_of_speech": "noun (m pl)",
@@ -6569,6 +7225,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Anatomía y cuerpo"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "hormiga",
+    "english": "ant",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la hormiga; las hormigas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -6915,6 +7585,20 @@
     "_seed": false
   },
   {
+    "word": "jabalí",
+    "english": "wild boar",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el jabalí; los jabalíes",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "jamón",
     "english": "ham",
     "part_of_speech": "noun (m)",
@@ -6950,6 +7634,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "jirafa",
+    "english": "giraffe",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la jirafa; las jirafas (forma única para ambos sexos; se aclara con 'jirafa macho/hembra')",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -7050,6 +7748,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "koala",
+    "english": "koala",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el koala; los koalas (forma única para ambos sexos)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "labios",
     "english": "lips",
     "part_of_speech": "noun (m pl)",
@@ -7072,6 +7784,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "lagartija",
+    "english": "small lizard",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la lagartija; las lagartijas (lagarto = forma más grande)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -7115,8 +7841,8 @@
     "grammar_notes": "el latido / los latidos; latido irregular: arritmia cardíaca.",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Alimentación",
-      "Medicina y tratamiento"
+      "Medicina y tratamiento",
+      "Tiempo y frecuencia"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -7225,10 +7951,39 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Medicina y tratamiento",
+      "Ropa y accesorios",
       "Cultura tapatía"
     ],
     "tapatio": true,
     "tapatio_notes": "Tapatíos say lentes; Spaniards say gafas 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "león",
+    "english": "lion",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el león / la leona; los leones",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "leopardo",
+    "english": "leopard",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el leopardo; los leopardos (forma femenina poco usada: leopardo hembra)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -7478,6 +8233,34 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "lobo",
+    "english": "wolf",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el lobo / la loba; los lobos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "loro",
+    "english": "parrot",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el loro / la lora; los loros",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "lugar",
     "english": "place / location",
     "part_of_speech": "noun (m)",
@@ -7486,6 +8269,20 @@
     "categories": [
       "Orientación y direcciones",
       "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "macho",
+    "english": "male (animal)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el macho; los machos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -7681,20 +8478,17 @@
   },
   {
     "word": "manzana",
-    "english": "apple / city block (Spain)",
+    "english": "apple",
     "part_of_speech": "noun (f)",
     "grammar_notes": "la manzana; en México, block = cuadra",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Salud y síntomas",
-      "Ciudad y transporte",
-      "Orientación y direcciones"
+      "Alimentación"
     ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 0,
-    "_seed": false
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "manzanilla",
@@ -7703,14 +8497,27 @@
     "grammar_notes": "la manzanilla; té de manzanilla: infusión de flores de manzanilla, muy popular para calmar el estómago.",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Alimentación",
-      "Salud y síntomas"
+      "Alimentación"
     ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 0,
-    "_seed": false
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "mapache",
+    "english": "raccoon",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el mapache; los mapaches",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 Del náhuatl 'mapachitli' ('el que toma todo con las manos').",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "maquillarse",
@@ -7796,6 +8603,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "mariposa",
+    "english": "butterfly",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la mariposa; las mariposas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "mariscos",
     "english": "seafood / shellfish",
     "part_of_speech": "noun (m pl)",
@@ -7817,7 +8638,8 @@
     "grammar_rule": "Feminine noun",
     "categories": [
       "Rutinas diarias",
-      "Familia y relaciones"
+      "Familia y relaciones",
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -7940,14 +8762,15 @@
     "leitner_sessions_until_due": 0
   },
   {
-    "word": "mercanado",
+    "word": "mercado",
     "english": "market",
     "part_of_speech": "noun (m)",
     "grammar_notes": "el mercado / los mercados; tianguis = outdoor market (🌵)",
     "grammar_rule": "Masculine noun",
     "categories": [
+      "Alimentación",
       "Ciudad y transporte",
-      "Alimentación"
+      "Rutinas diarias"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -8005,7 +8828,8 @@
     "grammar_notes": "la migraña / las migrañas; tener migraña",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Alimentación"
+      "Medicina y tratamiento",
+      "Salud y síntomas"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -8057,6 +8881,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "mono",
+    "english": "monkey",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el mono / la mona; los monos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "moreno",
     "english": "dark-haired / dark-skinned / brunette",
     "part_of_speech": "adjective",
@@ -8064,6 +8902,34 @@
     "grammar_rule": "Adjective: used with SER (permanent trait)",
     "categories": [
       "Descripción personal"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "mosca",
+    "english": "fly",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la mosca; las moscas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "mosquito",
+    "english": "mosquito",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el mosquito; los mosquitos (sinónimo muy usado en México: zancudo)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -8099,6 +8965,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "mula",
+    "english": "mule",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la mula; las mulas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "municipio",
     "english": "municipality",
     "part_of_speech": "noun (m)",
@@ -8127,6 +9007,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "murciélago",
+    "english": "bat",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el murciélago; los murciélagos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "músculo",
@@ -8557,13 +9451,14 @@
     "grammar_notes": "el número / los números; se usa en direcciones: número interior",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Salud y síntomas"
+      "Salud y síntomas",
+      "Orientación y direcciones",
+      "Gramática funcional"
     ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 0,
-    "_seed": false
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "nunca",
@@ -8608,9 +9503,9 @@
     "leitner_sessions_until_due": 0
   },
   {
-    "word": "oídos",
-    "english": "ears (inner)",
-    "part_of_speech": "noun (m pl)",
+    "word": "oído",
+    "english": "ear / inner ear",
+    "part_of_speech": "noun (m)",
     "grammar_notes": "los oídos (inner ear/hearing); orejas = outer ears",
     "grammar_rule": "Masculine noun",
     "categories": [
@@ -8619,8 +9514,7 @@
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 1,
-    "_seed": false
+    "leitner_sessions_until_due": 1
   },
   {
     "word": "oír",
@@ -8629,7 +9523,7 @@
     "grammar_notes": "Irregular: oigo, oyes, oye, oímos, oyen; pretérito: oí; gerundio: oyendo",
     "grammar_rule": "Fully irregular verb (oigo/oyes pattern + irregular gerund)",
     "categories": [
-      "Anatomía y cuerpo",
+      "Rutinas diarias",
       "Gramática funcional"
     ],
     "gerund": "oyendo",
@@ -8658,8 +9552,7 @@
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 1,
-    "_seed": false
+    "leitner_sessions_until_due": 1
   },
   {
     "word": "ojo",
@@ -8782,10 +9675,10 @@
     "leitner_sessions_until_due": 0
   },
   {
-    "word": "orejas",
-    "english": "ears (outer)",
-    "part_of_speech": "noun (f pl)",
-    "grammar_notes": "las orejas; oídos = inner ear",
+    "word": "oreja",
+    "english": "ear / outer ear",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "(pl) las orejas; oídos = inner ear",
     "grammar_rule": "Feminine noun",
     "categories": [
       "Anatomía y cuerpo"
@@ -8793,8 +9686,7 @@
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 1,
-    "_seed": false
+    "leitner_sessions_until_due": 1
   },
   {
     "word": "órgano",
@@ -8842,6 +9734,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "oso",
+    "english": "bear",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el oso / la osa; los osos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ostras",
     "english": "oysters",
     "part_of_speech": "noun (f pl)",
@@ -8870,6 +9776,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "oveja",
+    "english": "sheep",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la oveja; las ovejas (sinónimo muy usado en México: borrego)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "padre",
     "english": "cool / great / awesome (adjective)",
     "part_of_speech": "adjective",
@@ -8882,6 +9802,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "🌵 Argot mexicano/tapatío clásico — un poco más suave y antiguo que chido pero igualmente común. Usado en todas las generaciones.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "pájaro",
+    "english": "bird",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el pájaro; los pájaros (término genérico para ave pequeña)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -8909,7 +9843,7 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Alimentación",
-      "Comunicación y cortesía"
+      "Rutinas diarias"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -8930,6 +9864,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "paloma",
+    "english": "dove / pigeon",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la paloma; las palomas (macho: el palomo)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "páncreas",
@@ -9080,6 +10028,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "pata",
+    "english": "paw / leg (animal)",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la pata; las patas (¡cuidado! no confundir con 'pato' = duck)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "patio",
     "english": "patio / courtyard",
     "part_of_speech": "noun (m)",
@@ -9087,6 +10049,34 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Casa y hogar"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "pato",
+    "english": "duck",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el pato / la pata; los patos (¡ojo! 'pata' también significa pata/pierna de animal — checa el contexto)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "pavo",
+    "english": "turkey",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el pavo / la pava; los pavos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -9153,8 +10143,8 @@
     "grammar_notes": "pedir prestado algo a alguien: solicitar que te presten algo temporalmente.",
     "grammar_rule": "Verb phrase / compound construction",
     "categories": [
-      "Comunicación y cortesía",
-      "Cantidades y comparaciones"
+      "Rutinas diarias",
+      "Comunicación y cortesía"
     ],
     "gerund": "pidiendo prestado",
     "past_participle": "pedido prestado",
@@ -9222,6 +10212,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "pelaje",
+    "english": "fur / coat (animal)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el pelaje; los pelajes",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "pelirrojo",
     "english": "red-haired / redhead",
     "part_of_speech": "adjective",
@@ -9237,19 +10241,18 @@
   },
   {
     "word": "pelo",
-    "english": "hair (general/Castilian — less common in Mexico)",
+    "english": "hair",
     "part_of_speech": "noun (m)",
-    "grammar_notes": "el pelo; tener el pelo lacio/rizado/ondulado",
+    "grammar_notes": "(general/Castilian — less common in Mexico); el pelo; tener el pelo lacio/rizado/ondulado",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Descripción personal",
-      "Anatomía y cuerpo"
+      "Anatomía y cuerpo",
+      "Descripción personal"
     ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 1,
-    "_seed": false
+    "leitner_sessions_until_due": 1
   },
   {
     "word": "pelvis",
@@ -9273,6 +10276,7 @@
     "grammar_notes": "Cambio de raíz e>ie: pienso; pensar + infinitivo = tener planeado",
     "grammar_rule": "Stem-changing verb: e→ie",
     "categories": [
+      "Emociones y estados",
       "Descripción personal"
     ],
     "gerund": "pensando",
@@ -9399,6 +10403,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "perico",
+    "english": "parakeet",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el perico; los pericos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "peroné",
     "english": "fibula",
     "part_of_speech": "noun (m)",
@@ -9420,8 +10438,8 @@
     "grammar_notes": "el perro / la perra; los perros",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Rutinas diarias",
-      "Familia y relaciones"
+      "Familia y relaciones",
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -9450,8 +10468,7 @@
     "grammar_notes": "el pez / los peces; pescado: el pez una vez capturado o preparado para comer.",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Alimentación",
-      "Casa y hogar"
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -9472,6 +10489,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": true
+  },
+  {
+    "word": "pico",
+    "english": "beak",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el pico; los picos (también significa 'cima/punta' o, coloquialmente, 'un poco extra': 'y pico')",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "piel",
@@ -9504,6 +10535,20 @@
     "_seed": false
   },
   {
+    "word": "pingüino",
+    "english": "penguin",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el pingüino / la pingüina; los pingüinos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "pitaya",
     "english": "dragon fruit / pitaya",
     "part_of_speech": "noun (f)",
@@ -9511,7 +10556,6 @@
     "grammar_rule": "Feminine noun",
     "categories": [
       "Alimentación",
-      "Tiempo y frecuencia",
       "Cultura tapatía"
     ],
     "tapatio": true,
@@ -9607,6 +10651,7 @@
     "grammar_notes": "poco/a (adj); un poco = un poco (adverb); pocos/pocas (pl adj)",
     "grammar_rule": "Quantifier adjective/adverb (agrees in gender/number)",
     "categories": [
+      "Rutinas diarias",
       "Cantidades y comparaciones"
     ],
     "tapatio": false,
@@ -9658,7 +10703,8 @@
     "grammar_notes": "el pollo; pollo asado es un básico tapatío",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Alimentación"
+      "Alimentación",
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -9861,8 +10907,7 @@
     "grammar_notes": "Para hábitos, estados continuos y contexto pasado; -AR: -aba; -ER/-IR: -ía",
     "grammar_rule": "Grammar term / structural concept",
     "categories": [
-      "Gramática funcional",
-      "Tiempo y frecuencia"
+      "Gramática funcional"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -9890,8 +10935,7 @@
     "grammar_notes": "haber (presente) + participio pasado; ejemplo: he comido (pretérito perfecto de comer).",
     "grammar_rule": "Grammar term / structural concept",
     "categories": [
-      "Gramática funcional",
-      "Tiempo y frecuencia"
+      "Gramática funcional"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -9948,7 +10992,9 @@
     "grammar_notes": "Cambio de raíz o>ue: pruebo; probar la comida: saborear o catar un alimento.",
     "grammar_rule": "Stem-changing verb: o→ue",
     "categories": [
-      "Alimentación"
+      "Alimentación",
+      "Rutinas diarias",
+      "Gramática funcional"
     ],
     "gerund": "probando",
     "past_participle": "probado",
@@ -10022,8 +11068,7 @@
     "grammar_notes": "pronombres personales: yo/tú/él/ella/usted/nosotros/ellos/ellas/ustedes; reflexivos: me/te/se/nos",
     "grammar_rule": "Grammar term / structural concept",
     "categories": [
-      "Gramática funcional",
-      "Comunicación y cortesía"
+      "Gramática funcional"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -10098,7 +11143,8 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Alimentación",
-      "Cultura tapatía"
+      "Cultura tapatía",
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -10134,6 +11180,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": false
+  },
+  {
+    "word": "puma",
+    "english": "puma / mountain lion",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el puma; los pumas (también llamado 'león de montaña')",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "pupila",
@@ -10379,6 +11439,34 @@
     "_seed": false
   },
   {
+    "word": "rana",
+    "english": "frog",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la rana; las ranas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "ratón",
+    "english": "mouse",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el ratón / la ratona; los ratones",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "receptor",
     "english": "recipient / receiver",
     "part_of_speech": "noun (m/f)",
@@ -10414,7 +11502,8 @@
     "grammar_notes": "Verbo regular -AR; ejemplo: el cuerpo rechazó el órgano (reacción inmunológica al trasplante).",
     "grammar_rule": "Regular -AR verb",
     "categories": [
-      "Medicina y tratamiento"
+      "Medicina y tratamiento",
+      "Emociones y estados"
     ],
     "gerund": "rechazando",
     "past_participle": "rechazado",
@@ -10452,13 +11541,13 @@
     "grammar_rule": "Regular noun",
     "categories": [
       "Medicina y tratamiento",
-      "Salud y síntomas"
+      "Salud y síntomas",
+      "Emociones y estados"
     ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 0,
-    "_seed": false
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "recuperación",
@@ -10611,8 +11700,8 @@
     "grammar_notes": "el reloj / los relojes",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Tiempo y frecuencia",
-      "Descripción personal"
+      "Ropa y accesorios",
+      "Tiempo y frecuencia"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -10642,6 +11731,20 @@
     "grammar_rule": "Noun phrase with adjective agreement",
     "categories": [
       "Medicina y tratamiento"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "rinoceronte",
+    "english": "rhinoceros",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el rinoceronte; los rinocerontes (válido para ambos sexos)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -10713,14 +11816,15 @@
     "grammar_notes": "Participio pasado irregular de romper; ejemplo: he roto (pretérito perfecto de romper).",
     "grammar_rule": "Irregular past participle (adjective use)",
     "categories": [
-      "Gramática funcional",
-      "Salud y síntomas"
+      "Salud y síntomas",
+      "Casa y hogar",
+      "Emociones y estados",
+      "Gramática funcional"
     ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
-    "leitner_sessions_until_due": 0,
-    "_seed": true
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "rubio",
@@ -10996,6 +12100,20 @@
     "_seed": false
   },
   {
+    "word": "sapo",
+    "english": "toad",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el sapo; los sapos (diferencia con la rana: piel seca y rugosa)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "sed",
     "english": "thirst",
     "part_of_speech": "noun (f)",
@@ -11043,6 +12161,20 @@
       "nosotros": "seguíamos",
       "ellos/ellas": "seguían"
     },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "selva",
+    "english": "jungle",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la selva; las selvas",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -11164,6 +12296,20 @@
       "nosotros": "éramos",
       "ellos/ellas": "eran"
     },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "serpiente",
+    "english": "snake",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la serpiente; las serpientes (sinónimo muy común: víbora)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -11488,7 +12634,7 @@
     "grammar_notes": "el suéter / los suéteres; término mexicano/tapatío",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Alimentación",
+      "Ropa y accesorios",
       "Cultura tapatía"
     ],
     "tapatio": true,
@@ -11634,7 +12780,7 @@
     "grammar_notes": "la temporada; una temporada de la serie: conjunto de episodios transmitidos en un período.",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Familia y relaciones"
+      "Tiempo y frecuencia"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -11752,6 +12898,20 @@
     "_seed": false
   },
   {
+    "word": "tiburón",
+    "english": "shark",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el tiburón; los tiburones",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "tiempo",
     "english": "time / weather",
     "part_of_speech": "noun (m)",
@@ -11786,8 +12946,21 @@
     "grammar_notes": "la tienda / las tiendas; tianguis = outdoor market (Mexican)",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Ciudad y transporte",
-      "Alimentación"
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "tigre",
+    "english": "tiger",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el tigre / la tigresa; los tigres",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -11837,6 +13010,21 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": true
+  },
+  {
+    "word": "tlacuache",
+    "english": "opossum",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el tlacuache; los tlacuaches",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 Del náhuatl 'tlacuatzin'. Palabra muy mexicana — en España y otros países se dice 'zarigüeya', pero en México casi nadie usa esa palabra.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "tobillo",
@@ -11978,6 +13166,34 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "topo",
+    "english": "mole",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el topo; los topos",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "toro",
+    "english": "bull",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el toro; los toros (hembra: la vaca)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "torpe",
     "english": "clumsy",
     "part_of_speech": "adjective",
@@ -12002,6 +13218,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "La torta tapatía en bolillo es un clásico del almuerzo en GDL 🌵 (Nota: en España, torta = pastel)",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "tortuga",
+    "english": "turtle",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la tortuga; las tortugas (sirve tanto para tortuga de tierra como de mar)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -12140,7 +13370,8 @@
     "grammar_notes": "Irregular en yo: traigo; pretérito: traje; gerundio: trayendo",
     "grammar_rule": "Irregular yo form",
     "categories": [
-      "Ropa y accesorios"
+      "Rutinas diarias",
+      "Gramática funcional"
     ],
     "gerund": "trayendo",
     "past_participle": "traído",
@@ -12287,8 +13518,8 @@
     "grammar_notes": "el tratamiento / los tratamientos; tratamiento médico",
     "grammar_rule": "Masculine noun",
     "categories": [
-      "Alimentación",
-      "Medicina y tratamiento"
+      "Medicina y tratamiento",
+      "Salud y síntomas"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -12331,6 +13562,20 @@
     "grammar_rule": "Adjective: used with ESTAR (temporary state)",
     "categories": [
       "Emociones y estados"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "trompa",
+    "english": "trunk (elephant)",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la trompa; las trompas (trompa de elefante)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -12402,7 +13647,7 @@
     "grammar_notes": "las urgencias; sala de urgencias o simplemente urgencias; México también usa sala de emergencias",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Casa y hogar"
+      "Medicina y tratamiento"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -12431,6 +13676,20 @@
     "grammar_rule": "Feminine noun",
     "categories": [
       "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "vaca",
+    "english": "cow",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la vaca; las vacas (macho: el toro)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -12548,6 +13807,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "venado",
+    "english": "deer",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el venado / la venada; los venados",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "venderse",
@@ -12729,6 +14002,20 @@
     "categories": [
       "Ciudad y transporte",
       "Rutinas diarias"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "víbora",
+    "english": "snake / viper",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la víbora; las víboras (sinónimo de serpiente, de uso muy frecuente en México)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -12935,8 +14222,21 @@
     "grammar_notes": "la warfarina; anticoagulante oral; también conocida como Coumadin",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Medicina y tratamiento",
-      "Orientación y direcciones"
+      "Medicina y tratamiento"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "yegua",
+    "english": "mare",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la yegua; las yeguas (hembra del caballo)",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -12978,7 +14278,7 @@
     "grammar_notes": "la zanahoria / las zanahorias",
     "grammar_rule": "Feminine noun",
     "categories": [
-      "Ciudad y transporte"
+      "Alimentación"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -13023,6 +14323,34 @@
     "categories": [
       "Ciudad y transporte",
       "Orientación y direcciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "zoológico",
+    "english": "zoo",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el zoológico; los zoológicos (forma corta coloquial: el zoo)",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "zorro",
+    "english": "fox",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "el zorro / la zorra; los zorros",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Animales"
     ],
     "tapatio": false,
     "tapatio_notes": "",

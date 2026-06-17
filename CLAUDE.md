@@ -13,7 +13,7 @@ Stan is starting from elementary vocabulary and grammar. Tapatio-specific conten
 | File | Purpose |
 |------|---------|
 | `spanish_dictionary.json` | Primary data file. 724 entries as of June 2026. Every word from the class, fully enriched. |
-| `flashcards_vocabulario.html` | Full-deck interactive flashcard app. **No embedded dictionary** — requires drag-dropping `spanish_dictionary.json` to play. Category selection, Talavera design, deal-in animation, grammar callout, bidirectional flip. **Leitner System integrated** — Leitner mode is the only mode; export updated JSON at session end. Supports Clic and Escribir (typed-answer) practice modes. |
+| `flashcards_vocabulario.html` | Full-deck interactive flashcard app. **localStorage-backed** — automatically loads dictionary and Leitner progress from browser storage; drag-drop JSON only needed first time or to update. Category selection, Talavera design, deal-in animation, grammar callout, bidirectional flip. **Leitner System integrated** — Leitner mode is the only mode. Supports Clic and Escribir (typed-answer) practice modes. Live at **guadalajara-spanish-flashcards.netlify.app**. |
 | `dictionary_editor.html` | CRUD editor for `spanish_dictionary.json`. File-load + drag-and-drop, searchable/filterable table, full edit modal with verb conjugation handling, exports sorted JSON with correct field order. Also serves as the **Leitner control panel** — reset boxes globally, by filtered view, or by category. Open in browser, load the JSON, edit, export. |
 | `grammar_catalog.md` | Read-only reference. 41 sections of class notes from Aura and Lalo covering all grammar topics taught. Tapatio content marked with 🌵. **Primary grammar authority — do not modify.** |
 | `grammar_reference.md` | CEFR A1/A2/B1 framework for Mexican Spanish. Gap-filler companion to the catalog — covers topics not explicitly taught in class (subject pronouns, negation, numbers, modal verbs, diminutives, future/conditional tenses, subjunctive, por vs para, si clauses, relative pronouns, indirect speech, and Mexican Spanish appendix). **Fallback only — catalog takes priority. If conflict arises, trust the catalog.** |
@@ -325,6 +325,23 @@ Reflexive verbs prefix me/te/se/nos/se to the conjugated form.
 - Scanned and corrected ~150+ broken `=` patterns in `spanish_dictionary.json`: self-referential X = X entries (where both sides were the same Spanish phrase) replaced with meaningful descriptions; ~33 English fragments translated to Spanish
 - **Divorced embedded JSON from HTML**: removed 362KB `var DICTIONARY = [...]` block from `flashcards_vocabulario.html` (450KB → ~87KB); restored missing constants (`ROUND_SIZE`, `MAX_DECK`, `CAT_META`, `CAT_COUNTS`, `selectedCats`) that were accidentally included in the removal; removed "play without tracking" option — Leitner mode is now the only mode; load screen now requires `spanish_dictionary.json` to proceed
 - File inventory and CLAUDE.md updated to reflect divorce
+
+### Session 20 (June 15, 2026)
+- **Created GitHub repo** `sjmisina/guadalajara-spanish-flashcards` (public) — all 9 project files pushed in initial commit `bc035ae`; `.gitignore` excludes `archive/` (~2GB photos), `.DS_Store`, and scratch files
+- **localStorage persistence** added to `flashcards_vocabulario.html` (commit `57ce794`):
+  - Two-key strategy: `tapatio_dict_v` stores the full dictionary JSON; `tapatio_leitner` stores a lightweight `{word: {box, due}}` delta
+  - On startup, `tryLoadFromStorage()` checks for cached dict — if found, skips load screen and goes straight to category selection
+  - `saveDictToStorage()` called after every JSON file load; `saveLeitnerToStorage()` called after every Leitner grade and `decrementSessions()`
+  - `applyStoredLeitner()` merges stored Leitner progress onto newly loaded dict entries by word key — Leitner history survives dictionary updates
+  - "🔄 Actualizar diccionario" subtle button on selection screen to force a fresh JSON load without losing progress
+- **Deployed to Netlify**: `https://guadalajara-spanish-flashcards.netlify.app` — GitHub → Netlify CI/CD pipeline; every `git push` to `main` auto-deploys; no build command (pure HTML/JS/JSON static site)
+
+### Session 21 (June 15, 2026)
+- Added `netlify.toml` — fixes 404 on root URL by redirecting `/` → `/flashcards_vocabulario.html` (status 200 rewrite); committed `feb3f29`
+- Fixed `ombligo` english field: `"navel; belly button"` → `"navel / belly button"` — semicolons are not recognized by SpellingHandler as alt-answer separators; only slashes work
+- **Auto-fetch dictionary from server** (`fetchDictFromServer()`) — on init, if localStorage is empty, app now `fetch()`es `spanish_dictionary.json` from the same Netlify origin; falls back to drag-drop screen only if fetch fails (e.g., running locally via `file://`); committed `0dca245`
+- Updated `showUpdateDictScreen()` — "🔄 Actualizar diccionario" now re-fetches from server instead of showing drag-drop; drag-drop remains as fallback
+- **Net result**: visiting the Netlify URL for the first time loads the app fully automatically — no drag-drop ever required
 
 ---
 
