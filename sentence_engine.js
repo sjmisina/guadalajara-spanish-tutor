@@ -115,6 +115,21 @@ var SentenceEngine = (function () {
     if (gender === 'f') return num === 'plur' ? 'unas' : 'una';
     return num === 'plur' ? 'unos' : 'un';
   }
+  // Feminine nouns beginning with a stressed a-/ha- take 'el'/'un' in the SINGULAR
+  // (e.g. el agua, un águila) while still agreeing feminine elsewhere. Flagged in the dictionary.
+  function elBeforeStressedA(noun) {
+    return (noun.grammar_rule || '').indexOf("takes 'el' before stressed a-") >= 0;
+  }
+  function defArtForNoun(noun, num) {
+    var gn = nounGN(noun);
+    if (gn.gender === 'f' && num === 'sing' && elBeforeStressedA(noun)) return 'el';
+    return defArt(gn.gender, num);
+  }
+  function indefArtForNoun(noun, num) {
+    var gn = nounGN(noun);
+    if (gn.gender === 'f' && num === 'sing' && elBeforeStressedA(noun)) return 'un';
+    return indefArt(gn.gender, num);
+  }
 
   // ── Reflexive / gustar parsing ────────────────────────────────────────────
   function isReflexive(entry) {
@@ -380,7 +395,7 @@ var SentenceEngine = (function () {
   TEMPLATES.push(function (model, rng, mode) {
     var noun = weightedPick(nounPool(model, { cats: SUBJECT_CATS }), rng); if (!noun) return null;
     var gn = nounGN(noun);
-    var ans = defArt(gn.gender, gn.num);
+    var ans = defArtForNoun(noun, gn.num);
     var verb = weightedPick(model.verbs.filter(function (e) { return hasFullTense(e, 'present'); }), rng);
     var vform = verb ? tenseObj(verb, 'present')[gn.num === 'plur' ? 'ellos/ellas' : 'él/ella'] : 'está aquí';
     var opts = mode === 'choice' ? uniqueOptions(ans, ALL_ART_DEF, 4, rng) : null;
@@ -405,7 +420,7 @@ var SentenceEngine = (function () {
       note: 'Concordancia del adjetivo con "' + noun.word + '" (' + gn.gender + ', ' + gn.num + '). Base: ' + f.ms + '.' });
     var lemma = model.byWord[copulaForAdj(adj, rng)];
     var copForm = lemma ? lemma.present_conjugation[gn.num === 'plur' ? 'ellos/ellas' : 'él/ella'] : (gn.num === 'plur' ? 'son' : 'es');
-    var parts = [T(cap(defArt(gn.gender, gn.num)) + ' ' + noun.word + ' ' + copForm + ' muy '), B(b), T('.')];
+    var parts = [T(cap(defArtForNoun(noun, gn.num)) + ' ' + noun.word + ' ' + copForm + ' muy '), B(b), T('.')];
     return finalize('adjAgree', 'present', null, parts, rng);
   });
 
@@ -442,7 +457,7 @@ var SentenceEngine = (function () {
     var form = v.present_conjugation[per.conjKey];
     var noun = weightedPick(nounPool(model, { classes: ['food', 'clothing', 'thing'] }), rng);
     var gn = noun ? nounGN(noun) : { gender: 'm', num: 'sing' };
-    var obj = noun ? (indefArt(gn.gender, gn.num) + ' ' + noun.word) : 'un regalo';
+    var obj = noun ? (indefArtForNoun(noun, gn.num) + ' ' + noun.word) : 'un regalo';
     var opts = mode === 'choice' ? uniqueOptions(recipient, ALL_IO, 4, rng) : null;
     var b = blank('io-pronoun', recipient, { options: opts, wordKey: v.word, gloss: v.english,
       note: 'Pronombre de objeto indirecto (reduplicado con "' + recName + '").' });
@@ -462,7 +477,7 @@ var SentenceEngine = (function () {
     var gn = noun ? nounGN(noun) : { gender: 'm', num: plural ? 'plur' : 'sing' };
     var num = noun ? gn.num : (plural ? 'plur' : 'sing');
     var verbForm = splitGustar(g.present_conjugation[per.io === 'le' ? 'le' : (per.io)] || g.present_conjugation['me'])[num === 'plur' ? 'plur' : 'sing'];
-    var obj = noun ? (defArt(gn.gender, num) + ' ' + noun.word) : (num === 'plur' ? 'los tacos' : 'el café');
+    var obj = noun ? (defArtForNoun(noun, num) + ' ' + noun.word) : (num === 'plur' ? 'los tacos' : 'el café');
     var ioOpts = mode === 'choice' ? uniqueOptions(ioAns, ALL_IO, 4, rng) : null;
     var gust = splitGustar(g.present_conjugation['me']);
     var vOpts = mode === 'choice' ? uniqueOptions(verbForm, [gust.sing, gust.plur], 2, rng) : null;
@@ -516,10 +531,9 @@ var SentenceEngine = (function () {
     var ans = doFor(gn.gender, gn.num);
     var opts = mode === 'choice' ? uniqueOptions(ans, ALL_DO, 4, rng) : null;
     var b = blank('do-pronoun', ans, { options: opts, wordKey: noun.word, gloss: noun.english,
-      note: 'Objeto directo; reemplaza "' + defArt(gn.gender, gn.num) + ' ' + noun.word + '" (' + gn.gender + ', ' + gn.num + ').' });
-    var ver = model.byWord['ver'];
-    var verForm = (ver && ver.present_conjugation[per.conjKey]) || 'veo';
-    var parts = [T(cap(per.subj) + ' ' + verForm + ' ' + defArt(gn.gender, gn.num) + ' ' + noun.word + '. ' + cap(per.subj) + ' '), B(b), T(' ' + form + ' siempre.')];
+      note: 'Objeto directo; reemplaza "' + defArtForNoun(noun, gn.num) + ' ' + noun.word + '" (' + gn.gender + ', ' + gn.num + ').' });
+    // Use the chosen (in-dictionary) verb for the setup clause too — never a hard-coded form
+    var parts = [T(cap(per.subj) + ' ' + form + ' ' + defArtForNoun(noun, gn.num) + ' ' + noun.word + '. ' + cap(per.subj) + ' '), B(b), T(' ' + form + ' siempre.')];
     return finalize('doPron', 'present', per.id, parts, rng);
   });
 

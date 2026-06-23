@@ -12,10 +12,10 @@ Stan is starting from elementary vocabulary and grammar. Tapatio-specific conten
 
 | File | Purpose |
 |------|---------|
-| `spanish_dictionary.json` | Primary data file. 818 entries as of June 2026. Every word from the class, fully enriched. |
+| `spanish_dictionary.json` | Primary data file. 1000 entries as of June 2026. Every word from the class plus high-frequency level-appropriate additions, fully enriched. |
 | `index.html` | **Central launcher** for the app suite. Talavera card grid driven by an `APPS` array in JS — add a new app = add one entry. Links to the flashcards, sentence maker, and dictionary editor. `netlify.toml` serves `/` → this page. |
 | `flashcards_vocabulario.html` | Full-deck interactive flashcard app. **localStorage-backed** — automatically loads dictionary and Leitner progress from browser storage; drag-drop JSON only needed first time or to update. Category selection, Talavera design, deal-in animation, grammar callout, bidirectional flip. **Leitner System integrated** — Leitner mode is the only mode. Supports Clic and Escribir (typed-answer) practice modes. Live at **guadalajara-spanish-flashcards.netlify.app**. |
-| `sentence_maker.html` | **Constructor de Oraciones** — dynamic fill-in-the-blank drills. Sentences are generated on demand (never stored) from the dictionary, B2-and-below. Rounds of 10, up to 5 (50 max), no repeats, up to 3 blanks each. Tests verbs, articles, adjectives, and pronouns (subject, possessive, direct object, indirect object, reflexive, gustar). Two difficulty modes: ⌨ Escribir (typed, graded by SpellingHandler) and 🔘 Opción múltiple. Loads dictionary via localStorage + fetch fallback; **shares the flashcards' `tapatio_leitner` store** (weights weak/due words, writes back grades). English help only on request. Uses sibling scripts `sentence_engine.js` + `spelling_handler.js`. |
+| `sentence_maker.html` | **Constructor de Oraciones** — dynamic fill-in-the-blank drills. Sentences are generated on demand (never stored) from the dictionary, B2-and-below. Rounds of 10, up to 5 (50 max), no repeats, up to 3 blanks each. Tests verbs, articles, adjectives, and pronouns (subject, possessive, direct object, indirect object, reflexive, gustar). Two difficulty modes: ⌨ Escribir (typed, graded by SpellingHandler) and 🔘 Opción múltiple. Loads dictionary via localStorage + fetch fallback; **shares the flashcards' `tapatio_leitner` store** (weights weak/due words, writes back grades). Setup screen shows the loaded word count and a **🔄 Actualizar diccionario** button (`updateDict()`) that re-fetches the JSON and overwrites the cache while preserving Leitner progress. English help only on request. Uses sibling scripts `sentence_engine.js` + `spelling_handler.js`. |
 | `sentence_engine.js` | **Source of truth** for the sentence generator (Node-testable, browser global `SentenceEngine`). Classifies entries, runs 11 agreement-aware templates, uses only dictionary conjugations, Leitner-weighted target selection, and a light semantic-compatibility layer (coarse noun/adjective/verb classes). Spec documented in `grammar_reference.md` Part B — keep them in sync. |
 | `dictionary_editor.html` | CRUD editor for `spanish_dictionary.json`. File-load + drag-and-drop, searchable/filterable table, full edit modal with verb conjugation handling, exports sorted JSON with correct field order. Also serves as the **Leitner control panel** — reset boxes globally, by filtered view, or by category. Open in browser, load the JSON, edit, export. |
 | `grammar_catalog.md` | Read-only reference. 41 sections of class notes from Aura and Lalo covering all grammar topics taught. Tapatio content marked with 🌵. **Primary grammar authority — do not modify.** |
@@ -83,26 +83,26 @@ All 18 categories. Every entry has at least one. Multi-category entries are comm
 
 | Category | Count | Purpose / Exercise Type |
 |----------|-------|------------------------|
-| Alimentación | 96 | Food, drinks, ingredients, cooking — market and restaurant scenarios |
-| Anatomía y cuerpo | 98 | Body parts, organs, blood, tissues — human body exercises |
+| Alimentación | 141 | Food, drinks, ingredients, cooking — market and restaurant scenarios |
+| Anatomía y cuerpo | 102 | Body parts, organs, blood, tissues — human body exercises |
 | Animales | 100 | Animals — pets, farm animals, wildlife, insects — naming and describing animals |
-| Medicina y tratamiento | 104 | Conditions, procedures, medications, medical roles, lab values — clinic/hospital scenarios |
-| Salud y síntomas | 68 | Symptoms, how you feel, illness — describing health to a doctor |
+| Medicina y tratamiento | 121 | Conditions, procedures, medications, medical roles, lab values — clinic/hospital scenarios |
+| Salud y síntomas | 86 | Symptoms, how you feel, illness — describing health to a doctor |
 | Ropa y accesorios | 42 | Clothing, accessories — shopping and description exercises |
-| Casa y hogar | 23 | Home, furniture, rooms — describing your living space |
-| Ciudad y transporte | 44 | Streets, vehicles, navigation, places in a city — getting around GDL |
-| Orientación y direcciones | 21 | Directional language — giving/following directions |
-| Familia y relaciones | 39 | Family members, relationships — talking about people you know |
-| Emociones y estados | 64 | Feelings, moods, emotional states — expressing yourself |
-| Descripción personal | 61 | Physical appearance, personality traits — describing people |
-| Rutinas diarias | 77 | Daily activities and action verbs — present tense practice |
-| Tiempo y frecuencia | 33 | Time expressions, seasons, frequency adverbs — scheduling and habits |
-| Cantidades y comparaciones | 13 | Numbers, sizes, quantities — shopping and comparison |
-| Comunicación y cortesía | 57 | Greetings, politeness, conversation connectors — social interaction |
+| Casa y hogar | 33 | Home, furniture, rooms — describing your living space |
+| Ciudad y transporte | 79 | Streets, vehicles, navigation, places in a city — getting around GDL |
+| Orientación y direcciones | 26 | Directional language — giving/following directions |
+| Familia y relaciones | 40 | Family members, relationships — talking about people you know |
+| Emociones y estados | 73 | Feelings, moods, emotional states — expressing yourself |
+| Descripción personal | 65 | Physical appearance, personality traits — describing people |
+| Rutinas diarias | 123 | Daily activities and action verbs — present tense practice |
+| Tiempo y frecuencia | 38 | Time expressions, seasons, frequency adverbs — scheduling and habits |
+| Cantidades y comparaciones | 45 | Numbers, sizes, quantities — shopping and comparison |
+| Comunicación y cortesía | 101 | Greetings, politeness, conversation connectors — social interaction |
 | Gramática funcional | 58 | Pronouns, articles, prepositions, conjunctions — structural vocabulary |
-| Cultura tapatía | 123 | Tapatio-specific slang, food, customs — local flavor overlay |
+| Cultura tapatía | 152 | Tapatio-specific slang, food, customs — local flavor overlay |
 
-Counts last verified June 17, 2026 (Session 22) by direct tally of `spanish_dictionary.json`. Entries are multi-category, so the sum of this column exceeds the 818 total entries.
+Counts last verified June 23, 2026 (Session 24) by direct tally of `spanish_dictionary.json`. Entries are multi-category, so the sum of this column exceeds the 1000 total entries.
 
 **Cultura tapatía is an overlay category**, not standalone — a Tapatio entry also belongs to its functional category (e.g., birria → Alimentación + Cultura tapatía). Every entry with `tapatio: true` has Cultura tapatía in its categories array.
 
@@ -136,7 +136,7 @@ The `grammar_rule` field uses human-readable labels designed to be pedagogically
 - `"tapatio": true` — the word is specific to or strongly associated with Guadalajara/Mexican usage, regional slang, or Tapatio culture
 - `"tapatio": false` — standard Spanish
 - When `tapatio` is true, `tapatio_notes` contains a human-readable explanation of the regional relevance (never empty)
-- 108 entries are currently Tapatio-flagged (all notes in Spanish), verified June 17, 2026
+- 133 entries are currently Tapatio-flagged (all notes in Spanish), verified June 23, 2026
 
 **Example Tapatio notes format**: "🌵 Jerga tapatía esencial — la escucharás constantemente en Guadalajara."
 
@@ -186,16 +186,16 @@ Reflexive verbs prefix me/te/se/nos/se to the conjugated form.
 
 | Metric | Value |
 |--------|-------|
-| Total entries | 818 |
-| Verb entries (with all conjugation fields) | 108 |
-| Tapatio-flagged entries | 108 |
+| Total entries | 1000 |
+| Verb entries (with all conjugation fields) | 186 |
+| Tapatio-flagged entries | 133 |
 | Categories | 18 |
 | Conjugation fields per verb | 5 (gerund, past participle, present, preterite, imperfect) |
-| Largest category | Cultura tapatía (123) |
-| Anatomía y cuerpo | 98 entries |
+| Largest category | Cultura tapatía (152) |
+| Anatomía y cuerpo | 102 entries |
 | Removed duplicates | pulmón (kept pulmones), leucocitos (kept glóbulos blancos) |
 
-Refreshed June 17, 2026 (Session 22) after these numbers were found stale during a full project review — see Session 22 below.
+Refreshed June 23, 2026 (Session 24) after expanding the dictionary to 1000 words — see Session 24 below.
 
 ---
 
@@ -373,14 +373,20 @@ Refreshed June 17, 2026 (Session 22) after these numbers were found stale during
 - **Data fix**: corrected `abrazar` preterite *yo* `abrazé` → `abracé` (-zar→-cé rule) so the generator never teaches the wrong form. (Note: this was the only orthographic conjugation error scanned for — a full audit of -car/-gar/-zar preterites and -cer/-cir/-uir present forms across all 101 other verbs is a recommended future pass.)
 - **Verification**: Node harness (50 sentences × both modes = 0 failures: uniqueness, ≤3 blanks, every verb/ser-estar answer is a real dictionary form, MC options always contain the answer); integration test (SpellingHandler accepts 100% of generated answers, accent-tolerant; Leitner writeback promotes correctly); full jsdom play-through of both modes to the final screen with shared store written.
 
+### Session 24 (June 23, 2026)
+- **Full verb-conjugation audit** (the punch-list item from Session 23). Built four independent checkers (targeted orthographic rules, a regular-verb regenerator, a curated 18-verb / 155-form irregular table, and imperfect/nosotros regularity), cross-checked by manual eyeball of every stem-changer and irregular. Across ~2,750 conjugated forms the dictionary held up extremely well: only real issues were **`brincal`→`brincar`** (headword typo; all conjugations were already correct for *brincar*) and **`pedir prestado`** (restored "prestado" in the preterite and imperfect, which had dropped it). Tightened **`nacer`**'s label to `Irregular yo form (c→zc): nazco` (was "Regular -ER verb"); confirmed `abrir`'s label was already precise. All remaining audit flags are documented false positives (strong preterites like *trajo/anduve*, correct irregular participles *escrito/abierto*, the *envío* accent verb, and multi-word verb phrases that trip naive stem-splitting).
+- **Two engine bugs surfaced by the audit and fixed in `sentence_engine.js`**: (1) `doPron` hard-coded `ver` (not a dictionary entry) for its setup clause, producing *"Ellos veo…"* for non-*yo* subjects — now uses the chosen in-dictionary verb for both clauses; (2) feminine nouns with a stressed initial *a-* now correctly take **el/un** in the singular (*el agua, un águila*) via `defArtForNoun`/`indefArtForNoun` keyed off the dictionary's `grammar_rule`, while agreement stays feminine. Verified across 800 batteries (43 occurrences, 0 wrong articles).
+- **Expanded the dictionary 818 → 1000 words** (Stan's goal). Added **78 verbs** — every conjugation machine-generated by a stem-change/orthographic conjugator with explicit overrides for the irregulars (ver, poner, caer, andar, irse, enviar, freír, conseguir, ir-based forms; irregular participles escrito/muerto/visto/puesto/frito), then run through the full audit suite (0 flags). Fills core A1 gaps (ver, poner, leer, escribir, tomar, llegar, necesitar…), stem-changers, irregulars, daily-routine reflexives, and chef/medical themed verbs. Added **104 non-verbs** across five themes Stan chose — Numbers/quantities/adjectives, Travel & city, Food & cooking, Medical & health, Entertainment & culture — with **25 new Tapatío/Jalisco-flagged** items (mariachi, tequila, torta ahogada, jericalla, tejuino, cahuama, molcajete, charrería, aventón, cuadra…). Merge sorted with a Spanish-collation key (á≈a, n<ñ<o) that reproduces the file's existing order, so existing entries didn't churn. New stats: 186 verb entries, 133 Tapatío-flagged, largest category Cultura tapatía (152).
+- **`sentence_maker.html`**: added the **🔄 Actualizar diccionario** button + loaded-word-count display on the setup screen (`updateDict()` re-fetches the JSON, overwrites the `tapatio_dict_v` cache, preserves Leitner progress). Returning users must click it (or the flashcards' equivalent — they share the cache) to pull the new 1000-word set.
+- **Verification**: final audit clean (0 real flags); engine harness 50 unique sentences × both modes = 0 failures with 1000 words; jsdom play-through passes and writes 1000 words to the shared Leitner store; refresh button verified in jsdom.
+
 ---
 
 ## Potential Next Steps
 
-- **Audit all verb conjugations for orthographic errors** (-car→qué, -gar→gué, -zar→cé preterites; -cer/-cir/-uir present) — `abrazar` was fixed in Session 23 but only as a spot-find
-- Add future tense conjugation field to all verb entries (would let the sentence maker add a future template)
+- Add future tense conjugation field to all verb entries (would let the sentence maker add a future template) — now higher value with 186 verbs
 - Add conditional tense conjugation field to all verb entries
-- Expand vocabulary in thinner categories (Cantidades y comparaciones: 13 entries)
 - Build a "lesson" structure mapping dictionary entries to grammar_catalog sections
 - Add more sentence-maker templates (double-object pronouns, negation, comparatives) and an optional category filter
+- Optionally strengthen the semantic layer (some grammatically-correct pairings remain intentionally quirky, e.g. *"El tequila es muy largo"*)
 - Add subjunctive mood field to verbs (advanced)

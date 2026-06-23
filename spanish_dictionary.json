@@ -233,6 +233,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "aceite",
+    "english": "oil",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Aceite para freír.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "aceite esencial",
     "english": "essential oil",
     "part_of_speech": "noun phrase (m)",
@@ -260,6 +274,44 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": false
+  },
+  {
+    "word": "acordarse",
+    "english": "to remember",
+    "part_of_speech": "verb (reflexive)",
+    "grammar_notes": "o→ue: me acuerdo; acordarse de algo.",
+    "grammar_rule": "Stem-changing verb: o→ue (reflexive)",
+    "categories": [
+      "Rutinas diarias",
+      "Emociones y estados"
+    ],
+    "gerund": "acordándose",
+    "past_participle": "acordado",
+    "present_conjugation": {
+      "yo": "me acuerdo",
+      "tú": "te acuerdas",
+      "él/ella": "se acuerda",
+      "nosotros": "nos acordamos",
+      "ellos/ellas": "se acuerdan"
+    },
+    "preterite_conjugation": {
+      "yo": "me acordé",
+      "tú": "te acordaste",
+      "él/ella": "se acordó",
+      "nosotros": "nos acordamos",
+      "ellos/ellas": "se acordaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "me acordaba",
+      "tú": "te acordabas",
+      "él/ella": "se acordaba",
+      "nosotros": "nos acordábamos",
+      "ellos/ellas": "se acordaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "acordeón",
@@ -308,6 +360,34 @@
       "nosotros": "nos acostábamos",
       "ellos/ellas": "se acostaban"
     },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "aduana",
+    "english": "customs",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Pasar por la aduana.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "aeropuerto",
+    "english": "airport",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "El aeropuerto de Guadalajara (GDL).",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte"
+    ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -758,6 +838,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "ancho",
+    "english": "wide",
+    "part_of_speech": "adjective",
+    "grammar_notes": "ancho/ancha.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ándale",
     "english": "come on / let's go / there you go / exactly",
     "part_of_speech": "interjection",
@@ -769,6 +863,44 @@
     ],
     "tapatio": true,
     "tapatio_notes": "🌵 Expresión clásica mexicana/tapatía. Amada por el Frito Bandito y por todos en Guadalajara. Combina naturalmente con órale y pues.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "andar",
+    "english": "to walk / to go around",
+    "part_of_speech": "verb",
+    "grammar_notes": "Pretérito fuerte: anduve, anduviste, anduvo...",
+    "grammar_rule": "Strong preterite (anduve)",
+    "categories": [
+      "Rutinas diarias",
+      "Ciudad y transporte"
+    ],
+    "gerund": "andando",
+    "past_participle": "andado",
+    "present_conjugation": {
+      "yo": "ando",
+      "tú": "andas",
+      "él/ella": "anda",
+      "nosotros": "andamos",
+      "ellos/ellas": "andan"
+    },
+    "preterite_conjugation": {
+      "yo": "anduve",
+      "tú": "anduviste",
+      "él/ella": "anduvo",
+      "nosotros": "anduvimos",
+      "ellos/ellas": "anduvieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "andaba",
+      "tú": "andabas",
+      "él/ella": "andaba",
+      "nosotros": "andábamos",
+      "ellos/ellas": "andaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -976,6 +1108,58 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "antro",
+    "english": "nightclub",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Antro = club nocturno (MX).",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cultura tapatía",
+      "Comunicación y cortesía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 En México \"antro\" es un club nocturno, no algo negativo.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "añadir",
+    "english": "to add",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -IR; sinónimo agregar.",
+    "grammar_rule": "Regular -IR verb",
+    "categories": [
+      "Alimentación"
+    ],
+    "gerund": "añadiendo",
+    "past_participle": "añadido",
+    "present_conjugation": {
+      "yo": "añado",
+      "tú": "añades",
+      "él/ella": "añade",
+      "nosotros": "añadimos",
+      "ellos/ellas": "añaden"
+    },
+    "preterite_conjugation": {
+      "yo": "añadí",
+      "tú": "añadiste",
+      "él/ella": "añadió",
+      "nosotros": "añadimos",
+      "ellos/ellas": "añadieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "añadía",
+      "tú": "añadías",
+      "él/ella": "añadía",
+      "nosotros": "añadíamos",
+      "ellos/ellas": "añadían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "aorta",
     "english": "aorta",
     "part_of_speech": "noun (f)",
@@ -989,6 +1173,21 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "apenas",
+    "english": "barely / just",
+    "part_of_speech": "adverb",
+    "grammar_notes": "Adverbio; apenas llegué.",
+    "grammar_rule": "Adverb",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Tiempo y frecuencia"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "apodo",
@@ -1203,6 +1402,43 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "asar",
+    "english": "to roast / to grill",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Alimentación"
+    ],
+    "gerund": "asando",
+    "past_participle": "asado",
+    "present_conjugation": {
+      "yo": "aso",
+      "tú": "asas",
+      "él/ella": "asa",
+      "nosotros": "asamos",
+      "ellos/ellas": "asan"
+    },
+    "preterite_conjugation": {
+      "yo": "asé",
+      "tú": "asaste",
+      "él/ella": "asó",
+      "nosotros": "asamos",
+      "ellos/ellas": "asaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "asaba",
+      "tú": "asabas",
+      "él/ella": "asaba",
+      "nosotros": "asábamos",
+      "ellos/ellas": "asaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ascitis",
     "english": "ascites (fluid buildup in abdomen)",
     "part_of_speech": "noun (f)",
@@ -1276,6 +1512,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "aventón",
+    "english": "ride / lift",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Dar un aventón = llevar a alguien. Muy mexicano.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 \"Dar un aventón\" = llevar a alguien en el carro. Jerga mexicana.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "avestruz",
     "english": "ostrich",
     "part_of_speech": "noun (m/f)",
@@ -1312,6 +1563,59 @@
     "grammar_rule": "Temporal adverb (preterite trigger)",
     "categories": [
       "Tiempo y frecuencia"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "ayudar",
+    "english": "to help",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; ayudar a alguien.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "ayudando",
+    "past_participle": "ayudado",
+    "present_conjugation": {
+      "yo": "ayudo",
+      "tú": "ayudas",
+      "él/ella": "ayuda",
+      "nosotros": "ayudamos",
+      "ellos/ellas": "ayudan"
+    },
+    "preterite_conjugation": {
+      "yo": "ayudé",
+      "tú": "ayudaste",
+      "él/ella": "ayudó",
+      "nosotros": "ayudamos",
+      "ellos/ellas": "ayudaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "ayudaba",
+      "tú": "ayudabas",
+      "él/ella": "ayudaba",
+      "nosotros": "ayudábamos",
+      "ellos/ellas": "ayudaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "ayuno",
+    "english": "fasting",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "En ayunas para el análisis.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Medicina y tratamiento",
+      "Salud y síntomas"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -1378,6 +1682,58 @@
       "él/ella": "bailaba",
       "nosotros": "bailábamos",
       "ellos/ellas": "bailaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "baile",
+    "english": "dance",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "El baile folklórico.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Comunicación y cortesía"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "bajar",
+    "english": "to go down / get off",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; bajar(se) del camión.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Ciudad y transporte",
+      "Rutinas diarias"
+    ],
+    "gerund": "bajando",
+    "past_participle": "bajado",
+    "present_conjugation": {
+      "yo": "bajo",
+      "tú": "bajas",
+      "él/ella": "baja",
+      "nosotros": "bajamos",
+      "ellos/ellas": "bajan"
+    },
+    "preterite_conjugation": {
+      "yo": "bajé",
+      "tú": "bajaste",
+      "él/ella": "bajó",
+      "nosotros": "bajamos",
+      "ellos/ellas": "bajaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "bajaba",
+      "tú": "bajabas",
+      "él/ella": "bajaba",
+      "nosotros": "bajábamos",
+      "ellos/ellas": "bajaban"
     },
     "tapatio": false,
     "tapatio_notes": "",
@@ -1594,6 +1950,44 @@
     "_seed": false
   },
   {
+    "word": "beber",
+    "english": "to drink",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -ER.",
+    "grammar_rule": "Regular -ER verb",
+    "categories": [
+      "Alimentación",
+      "Rutinas diarias"
+    ],
+    "gerund": "bebiendo",
+    "past_participle": "bebido",
+    "present_conjugation": {
+      "yo": "bebo",
+      "tú": "bebes",
+      "él/ella": "bebe",
+      "nosotros": "bebemos",
+      "ellos/ellas": "beben"
+    },
+    "preterite_conjugation": {
+      "yo": "bebí",
+      "tú": "bebiste",
+      "él/ella": "bebió",
+      "nosotros": "bebimos",
+      "ellos/ellas": "bebieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "bebía",
+      "tú": "bebías",
+      "él/ella": "bebía",
+      "nosotros": "bebíamos",
+      "ellos/ellas": "bebían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "betabel",
     "english": "beet",
     "part_of_speech": "noun (m)",
@@ -1714,6 +2108,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "birote",
+    "english": "birote (sourdough roll)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Pan salado crujiente; base de la torta ahogada.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 El birote salado solo sale bien en Guadalajara, dicen los tapatíos.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "birria",
     "english": "birria (spiced stew)",
     "part_of_speech": "noun (f)",
@@ -1725,6 +2134,21 @@
     ],
     "tapatio": true,
     "tapatio_notes": "La birria es EL platillo emblema de Guadalajara — mundialmente famosa y consumida diariamente 🌵🌶️",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "blando",
+    "english": "soft",
+    "part_of_speech": "adjective",
+    "grammar_notes": "blando/blanda.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -1782,6 +2206,21 @@
     ],
     "tapatio": false,
     "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "boleto",
+    "english": "ticket",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Boleto de avión/camión. En México \"boleto\", no \"billete\".",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 En México se dice \"boleto\", no \"billete\" como en España.",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -1844,7 +2283,7 @@
     "leitner_sessions_until_due": 0
   },
   {
-    "word": "brincal",
+    "word": "brincar",
     "english": "to jump",
     "part_of_speech": "verb",
     "grammar_notes": "Verbo regular -AR; yo brinco; Mexican term",
@@ -2056,6 +2495,97 @@
     "_seed": false
   },
   {
+    "word": "caer",
+    "english": "to fall",
+    "part_of_speech": "verb",
+    "grammar_notes": "caigo; cayó/cayeron; gerundio cayendo.",
+    "grammar_rule": "Irregular yo form (caigo) + vowel-stem preterite (cayó)",
+    "categories": [
+      "Rutinas diarias",
+      "Salud y síntomas"
+    ],
+    "gerund": "cayendo",
+    "past_participle": "caído",
+    "present_conjugation": {
+      "yo": "caigo",
+      "tú": "caes",
+      "él/ella": "cae",
+      "nosotros": "caemos",
+      "ellos/ellas": "caen"
+    },
+    "preterite_conjugation": {
+      "yo": "caí",
+      "tú": "caíste",
+      "él/ella": "cayó",
+      "nosotros": "caímos",
+      "ellos/ellas": "cayeron"
+    },
+    "imperfect_conjugation": {
+      "yo": "caía",
+      "tú": "caías",
+      "él/ella": "caía",
+      "nosotros": "caíamos",
+      "ellos/ellas": "caían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "caerse",
+    "english": "to fall down",
+    "part_of_speech": "verb (reflexive)",
+    "grammar_notes": "me caigo; me caí/se cayó; gerundio cayéndose.",
+    "grammar_rule": "Irregular yo form (caigo) + vowel-stem preterite (reflexive)",
+    "categories": [
+      "Rutinas diarias",
+      "Salud y síntomas"
+    ],
+    "gerund": "cayéndose",
+    "past_participle": "caído",
+    "present_conjugation": {
+      "yo": "me caigo",
+      "tú": "te caes",
+      "él/ella": "se cae",
+      "nosotros": "nos caemos",
+      "ellos/ellas": "se caen"
+    },
+    "preterite_conjugation": {
+      "yo": "me caí",
+      "tú": "te caíste",
+      "él/ella": "se cayó",
+      "nosotros": "nos caímos",
+      "ellos/ellas": "se cayeron"
+    },
+    "imperfect_conjugation": {
+      "yo": "me caía",
+      "tú": "te caías",
+      "él/ella": "se caía",
+      "nosotros": "nos caíamos",
+      "ellos/ellas": "se caían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "cahuama",
+    "english": "cahuama (large beer)",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Caguama: cerveza de 940 ml para compartir.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 Una caguama bien fría para compartir entre cuates.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "cajón de estacionamiento",
     "english": "parking space",
     "part_of_speech": "noun phrase (m)",
@@ -2099,6 +2629,58 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": false
+  },
+  {
+    "word": "caldo",
+    "english": "broth",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Caldo de pollo.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "calentar",
+    "english": "to heat up",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→ie: caliento; nosotros calentamos.",
+    "grammar_rule": "Stem-changing verb: e→ie",
+    "categories": [
+      "Alimentación",
+      "Casa y hogar"
+    ],
+    "gerund": "calentando",
+    "past_participle": "calentado",
+    "present_conjugation": {
+      "yo": "caliento",
+      "tú": "calientas",
+      "él/ella": "calienta",
+      "nosotros": "calentamos",
+      "ellos/ellas": "calientan"
+    },
+    "preterite_conjugation": {
+      "yo": "calenté",
+      "tú": "calentaste",
+      "él/ella": "calentó",
+      "nosotros": "calentamos",
+      "ellos/ellas": "calentaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "calentaba",
+      "tú": "calentabas",
+      "él/ella": "calentaba",
+      "nosotros": "calentábamos",
+      "ellos/ellas": "calentaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "calvo",
@@ -2145,6 +2727,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "cambiar",
+    "english": "to change",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; cambiar de opinión / dinero.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Cantidades y comparaciones"
+    ],
+    "gerund": "cambiando",
+    "past_participle": "cambiado",
+    "present_conjugation": {
+      "yo": "cambio",
+      "tú": "cambias",
+      "él/ella": "cambia",
+      "nosotros": "cambiamos",
+      "ellos/ellas": "cambian"
+    },
+    "preterite_conjugation": {
+      "yo": "cambié",
+      "tú": "cambiaste",
+      "él/ella": "cambió",
+      "nosotros": "cambiamos",
+      "ellos/ellas": "cambiaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "cambiaba",
+      "tú": "cambiabas",
+      "él/ella": "cambiaba",
+      "nosotros": "cambiábamos",
+      "ellos/ellas": "cambiaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "camello",
     "english": "camel",
     "part_of_speech": "noun (m)",
@@ -2152,6 +2772,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "camilla",
+    "english": "stretcher / gurney",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Trasladar en camilla.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -2280,6 +2914,21 @@
     ],
     "tapatio": true,
     "tapatio_notes": "Tapatíos say camote; Spaniards say boniato or batata 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "canción",
+    "english": "song",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Cantar una canción.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Comunicación y cortesía",
+      "Cultura tapatía"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -2491,6 +3140,20 @@
     "grammar_rule": "Feminine noun",
     "categories": [
       "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "carretera",
+    "english": "highway",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Carretera a Chapala.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -2816,6 +3479,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "cerrar",
+    "english": "to close",
+    "part_of_speech": "verb",
+    "grammar_notes": "Diptongo e→ie: cierro; nosotros cerramos.",
+    "grammar_rule": "Stem-changing verb: e→ie",
+    "categories": [
+      "Casa y hogar",
+      "Rutinas diarias"
+    ],
+    "gerund": "cerrando",
+    "past_participle": "cerrado",
+    "present_conjugation": {
+      "yo": "cierro",
+      "tú": "cierras",
+      "él/ella": "cierra",
+      "nosotros": "cerramos",
+      "ellos/ellas": "cierran"
+    },
+    "preterite_conjugation": {
+      "yo": "cerré",
+      "tú": "cerraste",
+      "él/ella": "cerró",
+      "nosotros": "cerramos",
+      "ellos/ellas": "cerraron"
+    },
+    "imperfect_conjugation": {
+      "yo": "cerraba",
+      "tú": "cerrabas",
+      "él/ella": "cerraba",
+      "nosotros": "cerrábamos",
+      "ellos/ellas": "cerraban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "chale",
     "english": "no way / ugh / that sucks / come on",
     "part_of_speech": "interjection",
@@ -2926,6 +3627,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "Los tapatíos usan chanclas en casa y en el tianguis 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "charrería",
+    "english": "charrería (Mexican rodeo)",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Deporte nacional; tradición jalisciense.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 La charrería es el deporte nacional y muy de Jalisco.",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -3091,6 +3806,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "chiste",
+    "english": "joke",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Contar un chiste. \"Qué chiste tiene\" = qué gracia.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Comunicación y cortesía",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 \"No tiene chiste\" = no tiene gracia/sentido.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "chivo",
     "english": "goat (meat)",
     "part_of_speech": "noun (m)",
@@ -3098,6 +3828,35 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "cicatriz",
+    "english": "scar",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "la cicatriz / las cicatrices.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento",
+      "Anatomía y cuerpo"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "cine",
+    "english": "cinema / movies",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Ir al cine.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Comunicación y cortesía"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -3436,6 +4195,21 @@
     "_seed": false
   },
   {
+    "word": "comal",
+    "english": "comal (griddle)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Comal para calentar tortillas.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 El comal es indispensable en la cocina mexicana.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "comedor",
     "english": "dining room",
     "part_of_speech": "noun (m)",
@@ -3444,6 +4218,44 @@
     "categories": [
       "Casa y hogar"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "comenzar",
+    "english": "to begin",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→ie (comienzo) y ortográfico comencé.",
+    "grammar_rule": "Stem-changing verb: e→ie (+ -zar→-cé preterite yo)",
+    "categories": [
+      "Rutinas diarias",
+      "Tiempo y frecuencia"
+    ],
+    "gerund": "comenzando",
+    "past_participle": "comenzado",
+    "present_conjugation": {
+      "yo": "comienzo",
+      "tú": "comienzas",
+      "él/ella": "comienza",
+      "nosotros": "comenzamos",
+      "ellos/ellas": "comienzan"
+    },
+    "preterite_conjugation": {
+      "yo": "comencé",
+      "tú": "comenzaste",
+      "él/ella": "comenzó",
+      "nosotros": "comenzamos",
+      "ellos/ellas": "comenzaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "comenzaba",
+      "tú": "comenzabas",
+      "él/ella": "comenzaba",
+      "nosotros": "comenzábamos",
+      "ellos/ellas": "comenzaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -3637,6 +4449,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "comprender",
+    "english": "to understand",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -ER; sinónimo entender.",
+    "grammar_rule": "Regular -ER verb",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "comprendiendo",
+    "past_participle": "comprendido",
+    "present_conjugation": {
+      "yo": "comprendo",
+      "tú": "comprendes",
+      "él/ella": "comprende",
+      "nosotros": "comprendemos",
+      "ellos/ellas": "comprenden"
+    },
+    "preterite_conjugation": {
+      "yo": "comprendí",
+      "tú": "comprendiste",
+      "él/ella": "comprendió",
+      "nosotros": "comprendimos",
+      "ellos/ellas": "comprendieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "comprendía",
+      "tú": "comprendías",
+      "él/ella": "comprendía",
+      "nosotros": "comprendíamos",
+      "ellos/ellas": "comprendían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "concentrado",
     "english": "concentrated / focused",
     "part_of_speech": "adjective",
@@ -3644,6 +4494,20 @@
     "grammar_rule": "Adjective: used with ESTAR (temporary state)",
     "categories": [
       "Emociones y estados"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "concierto",
+    "english": "concert",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Ir a un concierto.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Comunicación y cortesía"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -3770,6 +4634,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "conseguir",
+    "english": "to get / to manage to",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→i (consigo); nosotros conseguimos.",
+    "grammar_rule": "Stem-changing verb: e→i (+ -guir→-g- in yo)",
+    "categories": [
+      "Rutinas diarias",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "consiguiendo",
+    "past_participle": "conseguido",
+    "present_conjugation": {
+      "yo": "consigo",
+      "tú": "consigues",
+      "él/ella": "consigue",
+      "nosotros": "conseguimos",
+      "ellos/ellas": "consiguen"
+    },
+    "preterite_conjugation": {
+      "yo": "conseguí",
+      "tú": "conseguiste",
+      "él/ella": "consiguió",
+      "nosotros": "conseguimos",
+      "ellos/ellas": "consiguieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "conseguía",
+      "tú": "conseguías",
+      "él/ella": "conseguía",
+      "nosotros": "conseguíamos",
+      "ellos/ellas": "conseguían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "construir",
     "english": "to build",
     "part_of_speech": "verb",
@@ -3816,6 +4718,82 @@
     "categories": [
       "Medicina y tratamiento"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "contar",
+    "english": "to count / to tell",
+    "part_of_speech": "verb",
+    "grammar_notes": "o→ue: cuento; contar algo a alguien.",
+    "grammar_rule": "Stem-changing verb: o→ue",
+    "categories": [
+      "Comunicación y cortesía",
+      "Cantidades y comparaciones"
+    ],
+    "gerund": "contando",
+    "past_participle": "contado",
+    "present_conjugation": {
+      "yo": "cuento",
+      "tú": "cuentas",
+      "él/ella": "cuenta",
+      "nosotros": "contamos",
+      "ellos/ellas": "cuentan"
+    },
+    "preterite_conjugation": {
+      "yo": "conté",
+      "tú": "contaste",
+      "él/ella": "contó",
+      "nosotros": "contamos",
+      "ellos/ellas": "contaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "contaba",
+      "tú": "contabas",
+      "él/ella": "contaba",
+      "nosotros": "contábamos",
+      "ellos/ellas": "contaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "contestar",
+    "english": "to answer",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; sinónimo responder.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "contestando",
+    "past_participle": "contestado",
+    "present_conjugation": {
+      "yo": "contesto",
+      "tú": "contestas",
+      "él/ella": "contesta",
+      "nosotros": "contestamos",
+      "ellos/ellas": "contestan"
+    },
+    "preterite_conjugation": {
+      "yo": "contesté",
+      "tú": "contestaste",
+      "él/ella": "contestó",
+      "nosotros": "contestamos",
+      "ellos/ellas": "contestaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "contestaba",
+      "tú": "contestabas",
+      "él/ella": "contestaba",
+      "nosotros": "contestábamos",
+      "ellos/ellas": "contestaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -3954,6 +4932,43 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "costar",
+    "english": "to cost",
+    "part_of_speech": "verb",
+    "grammar_notes": "o→ue: cuesta/cuestan; ¿cuánto cuesta?",
+    "grammar_rule": "Stem-changing verb: o→ue (used mainly 3rd person, gustar-like)",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "gerund": "costando",
+    "past_participle": "costado",
+    "present_conjugation": {
+      "yo": "cuesto",
+      "tú": "cuestas",
+      "él/ella": "cuesta",
+      "nosotros": "costamos",
+      "ellos/ellas": "cuestan"
+    },
+    "preterite_conjugation": {
+      "yo": "costé",
+      "tú": "costaste",
+      "él/ella": "costó",
+      "nosotros": "costamos",
+      "ellos/ellas": "costaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "costaba",
+      "tú": "costabas",
+      "él/ella": "costaba",
+      "nosotros": "costábamos",
+      "ellos/ellas": "costaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "costilla",
     "english": "rib",
     "part_of_speech": "noun (f)",
@@ -4007,6 +5022,82 @@
     "categories": [
       "Medicina y tratamiento"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "crecer",
+    "english": "to grow",
+    "part_of_speech": "verb",
+    "grammar_notes": "crezco; resto regular -ER.",
+    "grammar_rule": "Irregular yo form (c→zc): crezco",
+    "categories": [
+      "Salud y síntomas",
+      "Descripción personal"
+    ],
+    "gerund": "creciendo",
+    "past_participle": "crecido",
+    "present_conjugation": {
+      "yo": "crezco",
+      "tú": "creces",
+      "él/ella": "crece",
+      "nosotros": "crecemos",
+      "ellos/ellas": "crecen"
+    },
+    "preterite_conjugation": {
+      "yo": "crecí",
+      "tú": "creciste",
+      "él/ella": "creció",
+      "nosotros": "crecimos",
+      "ellos/ellas": "crecieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "crecía",
+      "tú": "crecías",
+      "él/ella": "crecía",
+      "nosotros": "crecíamos",
+      "ellos/ellas": "crecían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "creer",
+    "english": "to believe / to think",
+    "part_of_speech": "verb",
+    "grammar_notes": "creyó, creyeron, creyendo.",
+    "grammar_rule": "Vowel-stem verb (i→y in 3rd person preterite / gerund)",
+    "categories": [
+      "Emociones y estados",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "creyendo",
+    "past_participle": "creído",
+    "present_conjugation": {
+      "yo": "creo",
+      "tú": "crees",
+      "él/ella": "cree",
+      "nosotros": "creemos",
+      "ellos/ellas": "creen"
+    },
+    "preterite_conjugation": {
+      "yo": "creí",
+      "tú": "creíste",
+      "él/ella": "creyó",
+      "nosotros": "creímos",
+      "ellos/ellas": "creyeron"
+    },
+    "imperfect_conjugation": {
+      "yo": "creía",
+      "tú": "creías",
+      "él/ella": "creía",
+      "nosotros": "creíamos",
+      "ellos/ellas": "creían"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -4254,6 +5345,59 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "curar",
+    "english": "to cure / to heal",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Medicina y tratamiento",
+      "Salud y síntomas"
+    ],
+    "gerund": "curando",
+    "past_participle": "curado",
+    "present_conjugation": {
+      "yo": "curo",
+      "tú": "curas",
+      "él/ella": "cura",
+      "nosotros": "curamos",
+      "ellos/ellas": "curan"
+    },
+    "preterite_conjugation": {
+      "yo": "curé",
+      "tú": "curaste",
+      "él/ella": "curó",
+      "nosotros": "curamos",
+      "ellos/ellas": "curaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "curaba",
+      "tú": "curabas",
+      "él/ella": "curaba",
+      "nosotros": "curábamos",
+      "ellos/ellas": "curaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "curita",
+    "english": "adhesive bandage",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Curita = bandita. Uso mexicano.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 En México una \"curita\" es lo que en inglés es band-aid.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "dar",
     "english": "to give",
     "part_of_speech": "verb",
@@ -4343,6 +5487,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "deber",
+    "english": "must / should / to owe",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -ER; deber + infinitivo = obligación.",
+    "grammar_rule": "Regular -ER verb (modal: deber + infinitive)",
+    "categories": [
+      "Comunicación y cortesía",
+      "Cantidades y comparaciones"
+    ],
+    "gerund": "debiendo",
+    "past_participle": "debido",
+    "present_conjugation": {
+      "yo": "debo",
+      "tú": "debes",
+      "él/ella": "debe",
+      "nosotros": "debemos",
+      "ellos/ellas": "deben"
+    },
+    "preterite_conjugation": {
+      "yo": "debí",
+      "tú": "debiste",
+      "él/ella": "debió",
+      "nosotros": "debimos",
+      "ellos/ellas": "debieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "debía",
+      "tú": "debías",
+      "él/ella": "debía",
+      "nosotros": "debíamos",
+      "ellos/ellas": "debían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "debilidad",
     "english": "weakness",
     "part_of_speech": "noun (f)",
@@ -4422,6 +5604,43 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "dejar",
+    "english": "to leave / to let",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; dejar algo / dejar de + infinitivo.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias"
+    ],
+    "gerund": "dejando",
+    "past_participle": "dejado",
+    "present_conjugation": {
+      "yo": "dejo",
+      "tú": "dejas",
+      "él/ella": "deja",
+      "nosotros": "dejamos",
+      "ellos/ellas": "dejan"
+    },
+    "preterite_conjugation": {
+      "yo": "dejé",
+      "tú": "dejaste",
+      "él/ella": "dejó",
+      "nosotros": "dejamos",
+      "ellos/ellas": "dejaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "dejaba",
+      "tú": "dejabas",
+      "él/ella": "dejaba",
+      "nosotros": "dejábamos",
+      "ellos/ellas": "dejaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "delfín",
@@ -4559,6 +5778,81 @@
     "categories": [
       "Alimentación"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "descansar",
+    "english": "to rest",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Salud y síntomas"
+    ],
+    "gerund": "descansando",
+    "past_participle": "descansado",
+    "present_conjugation": {
+      "yo": "descanso",
+      "tú": "descansas",
+      "él/ella": "descansa",
+      "nosotros": "descansamos",
+      "ellos/ellas": "descansan"
+    },
+    "preterite_conjugation": {
+      "yo": "descansé",
+      "tú": "descansaste",
+      "él/ella": "descansó",
+      "nosotros": "descansamos",
+      "ellos/ellas": "descansaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "descansaba",
+      "tú": "descansabas",
+      "él/ella": "descansaba",
+      "nosotros": "descansábamos",
+      "ellos/ellas": "descansaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "desmayarse",
+    "english": "to faint",
+    "part_of_speech": "verb (reflexive)",
+    "grammar_notes": "Regular -AR reflexivo.",
+    "grammar_rule": "Regular -AR verb (reflexive)",
+    "categories": [
+      "Salud y síntomas"
+    ],
+    "gerund": "desmayándose",
+    "past_participle": "desmayado",
+    "present_conjugation": {
+      "yo": "me desmayo",
+      "tú": "te desmayas",
+      "él/ella": "se desmaya",
+      "nosotros": "nos desmayamos",
+      "ellos/ellas": "se desmayan"
+    },
+    "preterite_conjugation": {
+      "yo": "me desmayé",
+      "tú": "te desmayaste",
+      "él/ella": "se desmayó",
+      "nosotros": "nos desmayamos",
+      "ellos/ellas": "se desmayaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "me desmayaba",
+      "tú": "te desmayabas",
+      "él/ella": "se desmayaba",
+      "nosotros": "nos desmayábamos",
+      "ellos/ellas": "se desmayaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -4944,6 +6238,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "docena",
+    "english": "dozen",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Una docena = doce unidades.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "doler",
     "english": "to hurt / ache",
     "part_of_speech": "verb",
@@ -5237,6 +6546,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "duro",
+    "english": "hard / tough",
+    "part_of_speech": "adjective",
+    "grammar_notes": "duro/dura; pan duro.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "educado",
     "english": "polite / well-mannered",
     "part_of_speech": "adjective",
@@ -5361,6 +6685,44 @@
     "_seed": true
   },
   {
+    "word": "empezar",
+    "english": "to begin",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→ie (empiezo) y ortográfico empecé.",
+    "grammar_rule": "Stem-changing verb: e→ie (+ -zar→-cé preterite yo)",
+    "categories": [
+      "Rutinas diarias",
+      "Tiempo y frecuencia"
+    ],
+    "gerund": "empezando",
+    "past_participle": "empezado",
+    "present_conjugation": {
+      "yo": "empiezo",
+      "tú": "empiezas",
+      "él/ella": "empieza",
+      "nosotros": "empezamos",
+      "ellos/ellas": "empiezan"
+    },
+    "preterite_conjugation": {
+      "yo": "empecé",
+      "tú": "empezaste",
+      "él/ella": "empezó",
+      "nosotros": "empezamos",
+      "ellos/ellas": "empezaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "empezaba",
+      "tú": "empezabas",
+      "él/ella": "empezaba",
+      "nosotros": "empezábamos",
+      "ellos/ellas": "empezaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "en este momento",
     "english": "at this moment / right now",
     "part_of_speech": "adverb phrase",
@@ -5466,6 +6828,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "encender",
+    "english": "to turn on / to light",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→ie: enciendo; nosotros encendemos.",
+    "grammar_rule": "Stem-changing verb: e→ie",
+    "categories": [
+      "Casa y hogar",
+      "Rutinas diarias"
+    ],
+    "gerund": "encendiendo",
+    "past_participle": "encendido",
+    "present_conjugation": {
+      "yo": "enciendo",
+      "tú": "enciendes",
+      "él/ella": "enciende",
+      "nosotros": "encendemos",
+      "ellos/ellas": "encienden"
+    },
+    "preterite_conjugation": {
+      "yo": "encendí",
+      "tú": "encendiste",
+      "él/ella": "encendió",
+      "nosotros": "encendimos",
+      "ellos/ellas": "encendieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "encendía",
+      "tú": "encendías",
+      "él/ella": "encendía",
+      "nosotros": "encendíamos",
+      "ellos/ellas": "encendían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "encías",
     "english": "gums",
     "part_of_speech": "noun (f pl)",
@@ -5479,6 +6879,44 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": true
+  },
+  {
+    "word": "encontrar",
+    "english": "to find",
+    "part_of_speech": "verb",
+    "grammar_notes": "o→ue: encuentro; nosotros encontramos.",
+    "grammar_rule": "Stem-changing verb: o→ue",
+    "categories": [
+      "Rutinas diarias",
+      "Ciudad y transporte"
+    ],
+    "gerund": "encontrando",
+    "past_participle": "encontrado",
+    "present_conjugation": {
+      "yo": "encuentro",
+      "tú": "encuentras",
+      "él/ella": "encuentra",
+      "nosotros": "encontramos",
+      "ellos/ellas": "encuentran"
+    },
+    "preterite_conjugation": {
+      "yo": "encontré",
+      "tú": "encontraste",
+      "él/ella": "encontró",
+      "nosotros": "encontramos",
+      "ellos/ellas": "encontraron"
+    },
+    "imperfect_conjugation": {
+      "yo": "encontraba",
+      "tú": "encontrabas",
+      "él/ella": "encontraba",
+      "nosotros": "encontrábamos",
+      "ellos/ellas": "encontraban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "enfermo",
@@ -5547,6 +6985,135 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "enseñar",
+    "english": "to teach / to show",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; enseñar algo a alguien (objeto indirecto).",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "enseñando",
+    "past_participle": "enseñado",
+    "present_conjugation": {
+      "yo": "enseño",
+      "tú": "enseñas",
+      "él/ella": "enseña",
+      "nosotros": "enseñamos",
+      "ellos/ellas": "enseñan"
+    },
+    "preterite_conjugation": {
+      "yo": "enseñé",
+      "tú": "enseñaste",
+      "él/ella": "enseñó",
+      "nosotros": "enseñamos",
+      "ellos/ellas": "enseñaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "enseñaba",
+      "tú": "enseñabas",
+      "él/ella": "enseñaba",
+      "nosotros": "enseñábamos",
+      "ellos/ellas": "enseñaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "entender",
+    "english": "to understand",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→ie: entiendo; nosotros entendemos.",
+    "grammar_rule": "Stem-changing verb: e→ie",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "entendiendo",
+    "past_participle": "entendido",
+    "present_conjugation": {
+      "yo": "entiendo",
+      "tú": "entiendes",
+      "él/ella": "entiende",
+      "nosotros": "entendemos",
+      "ellos/ellas": "entienden"
+    },
+    "preterite_conjugation": {
+      "yo": "entendí",
+      "tú": "entendiste",
+      "él/ella": "entendió",
+      "nosotros": "entendimos",
+      "ellos/ellas": "entendieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "entendía",
+      "tú": "entendías",
+      "él/ella": "entendía",
+      "nosotros": "entendíamos",
+      "ellos/ellas": "entendían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "entrada",
+    "english": "ticket / entrance",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Comprar la entrada; la entrada del cine.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Comunicación y cortesía",
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "entrar",
+    "english": "to enter / go in",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; entrar a/en.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Ciudad y transporte",
+      "Rutinas diarias"
+    ],
+    "gerund": "entrando",
+    "past_participle": "entrado",
+    "present_conjugation": {
+      "yo": "entro",
+      "tú": "entras",
+      "él/ella": "entra",
+      "nosotros": "entramos",
+      "ellos/ellas": "entran"
+    },
+    "preterite_conjugation": {
+      "yo": "entré",
+      "tú": "entraste",
+      "él/ella": "entró",
+      "nosotros": "entramos",
+      "ellos/ellas": "entraron"
+    },
+    "imperfect_conjugation": {
+      "yo": "entraba",
+      "tú": "entrabas",
+      "él/ella": "entraba",
+      "nosotros": "entrábamos",
+      "ellos/ellas": "entraban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "entrevista",
     "english": "interview",
     "part_of_speech": "noun (f)",
@@ -5574,6 +7141,44 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": true
+  },
+  {
+    "word": "enviar",
+    "english": "to send",
+    "part_of_speech": "verb",
+    "grammar_notes": "Acentuación: envío, envías, envía, enviamos, envían.",
+    "grammar_rule": "Regular -AR verb (accent shift: envío)",
+    "categories": [
+      "Comunicación y cortesía",
+      "Ciudad y transporte"
+    ],
+    "gerund": "enviando",
+    "past_participle": "enviado",
+    "present_conjugation": {
+      "yo": "envío",
+      "tú": "envías",
+      "él/ella": "envía",
+      "nosotros": "enviamos",
+      "ellos/ellas": "envían"
+    },
+    "preterite_conjugation": {
+      "yo": "envié",
+      "tú": "enviaste",
+      "él/ella": "envió",
+      "nosotros": "enviamos",
+      "ellos/ellas": "enviaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "enviaba",
+      "tú": "enviabas",
+      "él/ella": "enviaba",
+      "nosotros": "enviábamos",
+      "ellos/ellas": "enviaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "envidia",
@@ -5620,6 +7225,110 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "equipaje",
+    "english": "luggage",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Equipaje de mano.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "escalofrío",
+    "english": "chill / shiver",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Tener escalofríos con fiebre.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Salud y síntomas"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "escribir",
+    "english": "to write",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular salvo el participio: escrito.",
+    "grammar_rule": "Regular -IR verb (irregular past participle: escrito)",
+    "categories": [
+      "Rutinas diarias",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "escribiendo",
+    "past_participle": "escrito",
+    "present_conjugation": {
+      "yo": "escribo",
+      "tú": "escribes",
+      "él/ella": "escribe",
+      "nosotros": "escribimos",
+      "ellos/ellas": "escriben"
+    },
+    "preterite_conjugation": {
+      "yo": "escribí",
+      "tú": "escribiste",
+      "él/ella": "escribió",
+      "nosotros": "escribimos",
+      "ellos/ellas": "escribieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "escribía",
+      "tú": "escribías",
+      "él/ella": "escribía",
+      "nosotros": "escribíamos",
+      "ellos/ellas": "escribían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "escuchar",
+    "english": "to listen",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "escuchando",
+    "past_participle": "escuchado",
+    "present_conjugation": {
+      "yo": "escucho",
+      "tú": "escuchas",
+      "él/ella": "escucha",
+      "nosotros": "escuchamos",
+      "ellos/ellas": "escuchan"
+    },
+    "preterite_conjugation": {
+      "yo": "escuché",
+      "tú": "escuchaste",
+      "él/ella": "escuchó",
+      "nosotros": "escuchamos",
+      "ellos/ellas": "escucharon"
+    },
+    "imperfect_conjugation": {
+      "yo": "escuchaba",
+      "tú": "escuchabas",
+      "él/ella": "escuchaba",
+      "nosotros": "escuchábamos",
+      "ellos/ellas": "escuchaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "esguince",
     "english": "sprain",
     "part_of_speech": "noun (m)",
@@ -5650,6 +7359,20 @@
     "_seed": false
   },
   {
+    "word": "especia",
+    "english": "spice",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Especias: comino, canela...",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "especialista",
     "english": "specialist (doctor)",
     "part_of_speech": "noun (m/f)",
@@ -5658,6 +7381,44 @@
     "categories": [
       "Medicina y tratamiento"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "esperar",
+    "english": "to wait / hope",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; esperar = aguardar o tener esperanza.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Emociones y estados"
+    ],
+    "gerund": "esperando",
+    "past_participle": "esperado",
+    "present_conjugation": {
+      "yo": "espero",
+      "tú": "esperas",
+      "él/ella": "espera",
+      "nosotros": "esperamos",
+      "ellos/ellas": "esperan"
+    },
+    "preterite_conjugation": {
+      "yo": "esperé",
+      "tú": "esperaste",
+      "él/ella": "esperó",
+      "nosotros": "esperamos",
+      "ellos/ellas": "esperaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "esperaba",
+      "tú": "esperabas",
+      "él/ella": "esperaba",
+      "nosotros": "esperábamos",
+      "ellos/ellas": "esperaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -5699,6 +7460,35 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Familia y relaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "esquina",
+    "english": "corner (street)",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "En la esquina.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte",
+      "Orientación y direcciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "estación",
+    "english": "station",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Estación del tren ligero.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -5837,6 +7627,21 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": true
+  },
+  {
+    "word": "estrecho",
+    "english": "narrow",
+    "part_of_speech": "adjective",
+    "grammar_notes": "estrecho/estrecha; calle estrecha.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "estrellado",
@@ -6009,6 +7814,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "festival",
+    "english": "festival",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Festival de cine.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Comunicación y cortesía",
+      "Cultura tapatía"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "fiebre",
     "english": "fever",
     "part_of_speech": "noun (f)",
@@ -6036,6 +7856,21 @@
     ],
     "tapatio": true,
     "tapatio_notes": "🌵 Argot juvenil tapatío/mexicano actual y popular para expresar acuerdo entusiasta. Más enfático que órale o sale.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "fiesta",
+    "english": "party",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Hacer una fiesta.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Comunicación y cortesía",
+      "Cultura tapatía"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -6199,6 +8034,43 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "freír",
+    "english": "to fry",
+    "part_of_speech": "verb",
+    "grammar_notes": "frío, fríes; gerundio friendo; participio frito.",
+    "grammar_rule": "Irregular -IR verb (freír: frío; participle frito)",
+    "categories": [
+      "Alimentación"
+    ],
+    "gerund": "friendo",
+    "past_participle": "frito",
+    "present_conjugation": {
+      "yo": "frío",
+      "tú": "fríes",
+      "él/ella": "fríe",
+      "nosotros": "freímos",
+      "ellos/ellas": "fríen"
+    },
+    "preterite_conjugation": {
+      "yo": "freí",
+      "tú": "freíste",
+      "él/ella": "frió",
+      "nosotros": "freímos",
+      "ellos/ellas": "frieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "freía",
+      "tú": "freías",
+      "él/ella": "freía",
+      "nosotros": "freíamos",
+      "ellos/ellas": "freían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "frente",
     "english": "forehead",
     "part_of_speech": "noun (f)",
@@ -6239,6 +8111,21 @@
     ],
     "tapatio": true,
     "tapatio_notes": "Los frijoles de la olla son un básico en los hogares tapatíos 🌵🫘",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "frontera",
+    "english": "border",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "La frontera con EE. UU.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte",
+      "Orientación y direcciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -6313,6 +8200,44 @@
     "categories": [
       "Animales"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "ganar",
+    "english": "to win / to earn",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; ganar dinero / un partido.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Rutinas diarias"
+    ],
+    "gerund": "ganando",
+    "past_participle": "ganado",
+    "present_conjugation": {
+      "yo": "gano",
+      "tú": "ganas",
+      "él/ella": "gana",
+      "nosotros": "ganamos",
+      "ellos/ellas": "ganan"
+    },
+    "preterite_conjugation": {
+      "yo": "gané",
+      "tú": "ganaste",
+      "él/ella": "ganó",
+      "nosotros": "ganamos",
+      "ellos/ellas": "ganaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "ganaba",
+      "tú": "ganabas",
+      "él/ella": "ganaba",
+      "nosotros": "ganábamos",
+      "ellos/ellas": "ganaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -6400,6 +8325,57 @@
     "categories": [
       "Animales"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "gasolinera",
+    "english": "gas station",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Cargar gasolina.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "gastar",
+    "english": "to spend (money)",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; gastar dinero.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "gerund": "gastando",
+    "past_participle": "gastado",
+    "present_conjugation": {
+      "yo": "gasto",
+      "tú": "gastas",
+      "él/ella": "gasta",
+      "nosotros": "gastamos",
+      "ellos/ellas": "gastan"
+    },
+    "preterite_conjugation": {
+      "yo": "gasté",
+      "tú": "gastaste",
+      "él/ella": "gastó",
+      "nosotros": "gastamos",
+      "ellos/ellas": "gastaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "gastaba",
+      "tú": "gastabas",
+      "él/ella": "gastaba",
+      "nosotros": "gastábamos",
+      "ellos/ellas": "gastaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -6610,6 +8586,20 @@
     "_seed": false
   },
   {
+    "word": "grueso",
+    "english": "thick",
+    "part_of_speech": "adjective",
+    "grammar_notes": "grueso/gruesa.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "grupo sanguíneo",
     "english": "blood type / blood group",
     "part_of_speech": "noun phrase (m)",
@@ -6705,6 +8695,20 @@
     ],
     "tapatio": true,
     "tapatio_notes": "🌵 El término de apelación mexicano/tapatío por excelencia. Lo escucharás decenas de veces al día en Guadalajara. Entre amigos cercanos es afectuoso; con un extraño puede ser agresivo. El contexto lo es todo, güey.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "guiso",
+    "english": "stew / dish",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Un guiso casero.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -6902,6 +8906,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "harina",
+    "english": "flour",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Harina de trigo/maíz.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "hay",
     "english": "there is / there are",
     "part_of_speech": "verb (impersonal)",
@@ -7051,6 +9069,43 @@
     "categories": [
       "Familia y relaciones"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "hervir",
+    "english": "to boil",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→ie (hiervo); pretérito hirvió; gerundio hirviendo.",
+    "grammar_rule": "Stem-changing verb: e→ie (-IR: preterite e→i)",
+    "categories": [
+      "Alimentación"
+    ],
+    "gerund": "hirviendo",
+    "past_participle": "hervido",
+    "present_conjugation": {
+      "yo": "hiervo",
+      "tú": "hierves",
+      "él/ella": "hierve",
+      "nosotros": "hervimos",
+      "ellos/ellas": "hierven"
+    },
+    "preterite_conjugation": {
+      "yo": "herví",
+      "tú": "herviste",
+      "él/ella": "hirvió",
+      "nosotros": "hervimos",
+      "ellos/ellas": "hirvieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "hervía",
+      "tú": "hervías",
+      "él/ella": "hervía",
+      "nosotros": "hervíamos",
+      "ellos/ellas": "hervían"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -7232,6 +9287,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "hondo",
+    "english": "deep",
+    "part_of_speech": "adjective",
+    "grammar_notes": "hondo/honda; plato hondo.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "hormiga",
     "english": "ant",
     "part_of_speech": "noun (f)",
@@ -7260,6 +9329,72 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": true
+  },
+  {
+    "word": "hornear",
+    "english": "to bake",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Alimentación"
+    ],
+    "gerund": "horneando",
+    "past_participle": "horneado",
+    "present_conjugation": {
+      "yo": "horneo",
+      "tú": "horneas",
+      "él/ella": "hornea",
+      "nosotros": "horneamos",
+      "ellos/ellas": "hornean"
+    },
+    "preterite_conjugation": {
+      "yo": "horneé",
+      "tú": "horneaste",
+      "él/ella": "horneó",
+      "nosotros": "horneamos",
+      "ellos/ellas": "hornearon"
+    },
+    "imperfect_conjugation": {
+      "yo": "horneaba",
+      "tú": "horneabas",
+      "él/ella": "horneaba",
+      "nosotros": "horneábamos",
+      "ellos/ellas": "horneaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "horno",
+    "english": "oven",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Al horno.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación",
+      "Casa y hogar"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "hospedaje",
+    "english": "lodging",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Buscar hospedaje.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "hueso",
@@ -7422,6 +9557,20 @@
     "_seed": false
   },
   {
+    "word": "ingrediente",
+    "english": "ingredient",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Los ingredientes del guiso.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "inmunosupresor",
     "english": "immunosuppressant",
     "part_of_speech": "noun (m) / adjective",
@@ -7569,6 +9718,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "irse",
+    "english": "to leave / to go away",
+    "part_of_speech": "verb (reflexive)",
+    "grammar_notes": "Irregular: me voy, te vas; pretérito me fui; gerundio yéndose.",
+    "grammar_rule": "Fully irregular verb (reflexive)",
+    "categories": [
+      "Rutinas diarias",
+      "Ciudad y transporte"
+    ],
+    "gerund": "yéndose",
+    "past_participle": "ido",
+    "present_conjugation": {
+      "yo": "me voy",
+      "tú": "te vas",
+      "él/ella": "se va",
+      "nosotros": "nos vamos",
+      "ellos/ellas": "se van"
+    },
+    "preterite_conjugation": {
+      "yo": "me fui",
+      "tú": "te fuiste",
+      "él/ella": "se fue",
+      "nosotros": "nos fuimos",
+      "ellos/ellas": "se fueron"
+    },
+    "imperfect_conjugation": {
+      "yo": "me iba",
+      "tú": "te ibas",
+      "él/ella": "se iba",
+      "nosotros": "nos íbamos",
+      "ellos/ellas": "se iban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "isquemia transitoria",
     "english": "TIA / transient ischemic attack",
     "part_of_speech": "noun phrase (f)",
@@ -7613,6 +9800,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "jarabe",
+    "english": "syrup (medicine)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Jarabe para la tos.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Medicina y tratamiento"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "jardín",
     "english": "garden",
     "part_of_speech": "noun (m)",
@@ -7634,6 +9835,35 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "jericalla",
+    "english": "jericalla (custard dessert)",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Postre tapatío parecido al flan, con canela.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 Postre emblemático de Guadalajara, ¡no te lo pierdas!",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "jeringa",
+    "english": "syringe",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Inyectar con jeringa.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -7728,6 +9958,21 @@
       "nosotros": "jugábamos",
       "ellos/ellas": "jugaban"
     },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "kilo",
+    "english": "kilo",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Un kilo de tortillas.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
+    ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -7901,6 +10146,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "leer",
+    "english": "to read",
+    "part_of_speech": "verb",
+    "grammar_notes": "Cambio ortográfico: leyó, leyeron, leyendo.",
+    "grammar_rule": "Vowel-stem verb (i→y in 3rd person preterite / gerund)",
+    "categories": [
+      "Rutinas diarias",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "leyendo",
+    "past_participle": "leído",
+    "present_conjugation": {
+      "yo": "leo",
+      "tú": "lees",
+      "él/ella": "lee",
+      "nosotros": "leemos",
+      "ellos/ellas": "leen"
+    },
+    "preterite_conjugation": {
+      "yo": "leí",
+      "tú": "leíste",
+      "él/ella": "leyó",
+      "nosotros": "leímos",
+      "ellos/ellas": "leyeron"
+    },
+    "imperfect_conjugation": {
+      "yo": "leía",
+      "tú": "leías",
+      "él/ella": "leía",
+      "nosotros": "leíamos",
+      "ellos/ellas": "leían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "lejos",
     "english": "far",
     "part_of_speech": "adverb",
@@ -7988,6 +10271,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "levadura",
+    "english": "yeast",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Levadura para el pan.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "levantarse",
     "english": "to get up",
     "part_of_speech": "verb (reflexive)",
@@ -8025,6 +10322,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "licuadora",
+    "english": "blender",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Licuar en la licuadora.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Alimentación",
+      "Casa y hogar"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ligamento",
     "english": "ligament",
     "part_of_speech": "noun (m)",
@@ -8038,6 +10350,20 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "ligero",
+    "english": "light (weight)",
+    "part_of_speech": "adjective",
+    "grammar_notes": "ligero/ligera.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "lima",
@@ -8121,6 +10447,59 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "litro",
+    "english": "liter",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Un litro de leche.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "llamar",
+    "english": "to call",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; llamar (por teléfono). Reflexivo llamarse = tener nombre.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "llamando",
+    "past_participle": "llamado",
+    "present_conjugation": {
+      "yo": "llamo",
+      "tú": "llamas",
+      "él/ella": "llama",
+      "nosotros": "llamamos",
+      "ellos/ellas": "llaman"
+    },
+    "preterite_conjugation": {
+      "yo": "llamé",
+      "tú": "llamaste",
+      "él/ella": "llamó",
+      "nosotros": "llamamos",
+      "ellos/ellas": "llamaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "llamaba",
+      "tú": "llamabas",
+      "él/ella": "llamaba",
+      "nosotros": "llamábamos",
+      "ellos/ellas": "llamaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "llamarse",
     "english": "to be named / called",
     "part_of_speech": "verb (reflexive)",
@@ -8153,6 +10532,59 @@
       "nosotros": "nos llamábamos",
       "ellos/ellas": "se llamaban"
     },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "llegar",
+    "english": "to arrive",
+    "part_of_speech": "verb",
+    "grammar_notes": "Ortográfico: yo llegué.",
+    "grammar_rule": "Regular -AR verb (-gar→-gué in preterite yo)",
+    "categories": [
+      "Ciudad y transporte",
+      "Rutinas diarias"
+    ],
+    "gerund": "llegando",
+    "past_participle": "llegado",
+    "present_conjugation": {
+      "yo": "llego",
+      "tú": "llegas",
+      "él/ella": "llega",
+      "nosotros": "llegamos",
+      "ellos/ellas": "llegan"
+    },
+    "preterite_conjugation": {
+      "yo": "llegué",
+      "tú": "llegaste",
+      "él/ella": "llegó",
+      "nosotros": "llegamos",
+      "ellos/ellas": "llegaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "llegaba",
+      "tú": "llegabas",
+      "él/ella": "llegaba",
+      "nosotros": "llegábamos",
+      "ellos/ellas": "llegaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "lleno",
+    "english": "full",
+    "part_of_speech": "adjective",
+    "grammar_notes": "lleno/llena; con ESTAR.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
+    ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -8261,6 +10693,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "lucha libre",
+    "english": "lucha libre (wrestling)",
+    "part_of_speech": "noun phrase (f)",
+    "grammar_notes": "Espectáculo de luchadores enmascarados.",
+    "grammar_rule": "Feminine noun phrase",
+    "categories": [
+      "Cultura tapatía",
+      "Comunicación y cortesía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 La lucha libre con máscaras es un clásico mexicano.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "lugar",
     "english": "place / location",
     "part_of_speech": "noun (m)",
@@ -8362,6 +10809,44 @@
     ],
     "tapatio": true,
     "tapatio_notes": "El agua de mamey se vende en los mercados tapatíos 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "mandar",
+    "english": "to send / to order",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; mandar algo a alguien.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "mandando",
+    "past_participle": "mandado",
+    "present_conjugation": {
+      "yo": "mando",
+      "tú": "mandas",
+      "él/ella": "manda",
+      "nosotros": "mandamos",
+      "ellos/ellas": "mandan"
+    },
+    "preterite_conjugation": {
+      "yo": "mandé",
+      "tú": "mandaste",
+      "él/ella": "mandó",
+      "nosotros": "mandamos",
+      "ellos/ellas": "mandaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "mandaba",
+      "tú": "mandabas",
+      "él/ella": "mandaba",
+      "nosotros": "mandábamos",
+      "ellos/ellas": "mandaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -8505,6 +10990,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "mapa",
+    "english": "map",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Excepción: \"el mapa\" es masculino aunque termina en -a.",
+    "grammar_rule": "Masculine noun (ends in -a, irregular)",
+    "categories": [
+      "Ciudad y transporte",
+      "Orientación y direcciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "mapache",
     "english": "raccoon",
     "part_of_speech": "noun (m)",
@@ -8573,6 +11073,43 @@
     "_seed": true
   },
   {
+    "word": "marearse",
+    "english": "to feel dizzy",
+    "part_of_speech": "verb (reflexive)",
+    "grammar_notes": "Regular -AR reflexivo.",
+    "grammar_rule": "Regular -AR verb (reflexive)",
+    "categories": [
+      "Salud y síntomas"
+    ],
+    "gerund": "mareándose",
+    "past_participle": "mareado",
+    "present_conjugation": {
+      "yo": "me mareo",
+      "tú": "te mareas",
+      "él/ella": "se marea",
+      "nosotros": "nos mareamos",
+      "ellos/ellas": "se marean"
+    },
+    "preterite_conjugation": {
+      "yo": "me mareé",
+      "tú": "te mareaste",
+      "él/ella": "se mareó",
+      "nosotros": "nos mareamos",
+      "ellos/ellas": "se marearon"
+    },
+    "imperfect_conjugation": {
+      "yo": "me mareaba",
+      "tú": "te mareabas",
+      "él/ella": "se mareaba",
+      "nosotros": "nos mareábamos",
+      "ellos/ellas": "se mareaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "mareo",
     "english": "dizziness / vertigo",
     "part_of_speech": "noun (m)",
@@ -8587,6 +11124,21 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": true
+  },
+  {
+    "word": "mariachi",
+    "english": "mariachi",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "El mariachi nació en Jalisco.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cultura tapatía",
+      "Comunicación y cortesía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 ¡El mariachi es originario de Jalisco! Orgullo tapatío.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "marido",
@@ -8627,6 +11179,21 @@
     ],
     "tapatio": false,
     "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "masa",
+    "english": "dough / masa",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Masa de maíz para tortillas.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 La masa de maíz es la base de tortillas y antojitos.",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -8748,6 +11315,44 @@
     "_seed": false
   },
   {
+    "word": "mejorar",
+    "english": "to improve / to get better",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Salud y síntomas",
+      "Emociones y estados"
+    ],
+    "gerund": "mejorando",
+    "past_participle": "mejorado",
+    "present_conjugation": {
+      "yo": "mejoro",
+      "tú": "mejoras",
+      "él/ella": "mejora",
+      "nosotros": "mejoramos",
+      "ellos/ellas": "mejoran"
+    },
+    "preterite_conjugation": {
+      "yo": "mejoré",
+      "tú": "mejoraste",
+      "él/ella": "mejoró",
+      "nosotros": "mejoramos",
+      "ellos/ellas": "mejoraron"
+    },
+    "imperfect_conjugation": {
+      "yo": "mejoraba",
+      "tú": "mejorabas",
+      "él/ella": "mejoraba",
+      "nosotros": "mejorábamos",
+      "ellos/ellas": "mejoraban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "melón",
     "english": "melon",
     "part_of_speech": "noun (m)",
@@ -8808,6 +11413,43 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "mezclar",
+    "english": "to mix",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Alimentación"
+    ],
+    "gerund": "mezclando",
+    "past_participle": "mezclado",
+    "present_conjugation": {
+      "yo": "mezclo",
+      "tú": "mezclas",
+      "él/ella": "mezcla",
+      "nosotros": "mezclamos",
+      "ellos/ellas": "mezclan"
+    },
+    "preterite_conjugation": {
+      "yo": "mezclé",
+      "tú": "mezclaste",
+      "él/ella": "mezcló",
+      "nosotros": "mezclamos",
+      "ellos/ellas": "mezclaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "mezclaba",
+      "tú": "mezclabas",
+      "él/ella": "mezclaba",
+      "nosotros": "mezclábamos",
+      "ellos/ellas": "mezclaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "miedo",
     "english": "fear",
     "part_of_speech": "noun (m)",
@@ -8833,6 +11475,88 @@
     ],
     "tapatio": false,
     "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "mirar",
+    "english": "to look at / watch",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "mirando",
+    "past_participle": "mirado",
+    "present_conjugation": {
+      "yo": "miro",
+      "tú": "miras",
+      "él/ella": "mira",
+      "nosotros": "miramos",
+      "ellos/ellas": "miran"
+    },
+    "preterite_conjugation": {
+      "yo": "miré",
+      "tú": "miraste",
+      "él/ella": "miró",
+      "nosotros": "miramos",
+      "ellos/ellas": "miraron"
+    },
+    "imperfect_conjugation": {
+      "yo": "miraba",
+      "tú": "mirabas",
+      "él/ella": "miraba",
+      "nosotros": "mirábamos",
+      "ellos/ellas": "miraban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "mitad",
+    "english": "half",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "La mitad de algo; femenino.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "mojado",
+    "english": "wet",
+    "part_of_speech": "adjective",
+    "grammar_notes": "mojado/mojada; con ESTAR.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Salud y síntomas"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "molcajete",
+    "english": "molcajete (mortar)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Mortero de piedra para salsas.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 El molcajete de piedra volcánica hace las mejores salsas.",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -8895,6 +11619,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "montón",
+    "english": "a lot / pile",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Un montón de = muchos. Coloquial.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "moreno",
     "english": "dark-haired / dark-skinned / brunette",
     "part_of_speech": "adjective",
@@ -8903,6 +11641,60 @@
     "categories": [
       "Descripción personal"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "moretón",
+    "english": "bruise",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Moretón = hematoma. Coloquial mexicano.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Salud y síntomas",
+      "Anatomía y cuerpo",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 \"Moretón\" es el término coloquial en México para un hematoma.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "morir",
+    "english": "to die",
+    "part_of_speech": "verb",
+    "grammar_notes": "o→ue (muero); pretérito murió; gerundio muriendo; participio muerto.",
+    "grammar_rule": "Stem-changing verb: o→ue (-IR: preterite o→u; irregular participle muerto)",
+    "categories": [
+      "Salud y síntomas",
+      "Medicina y tratamiento"
+    ],
+    "gerund": "muriendo",
+    "past_participle": "muerto",
+    "present_conjugation": {
+      "yo": "muero",
+      "tú": "mueres",
+      "él/ella": "muere",
+      "nosotros": "morimos",
+      "ellos/ellas": "mueren"
+    },
+    "preterite_conjugation": {
+      "yo": "morí",
+      "tú": "moriste",
+      "él/ella": "murió",
+      "nosotros": "morimos",
+      "ellos/ellas": "murieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "moría",
+      "tú": "morías",
+      "él/ella": "moría",
+      "nosotros": "moríamos",
+      "ellos/ellas": "morían"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -8951,6 +11743,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "mostrar",
+    "english": "to show",
+    "part_of_speech": "verb",
+    "grammar_notes": "o→ue: muestro; mostrar algo a alguien.",
+    "grammar_rule": "Stem-changing verb: o→ue",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "mostrando",
+    "past_participle": "mostrado",
+    "present_conjugation": {
+      "yo": "muestro",
+      "tú": "muestras",
+      "él/ella": "muestra",
+      "nosotros": "mostramos",
+      "ellos/ellas": "muestran"
+    },
+    "preterite_conjugation": {
+      "yo": "mostré",
+      "tú": "mostraste",
+      "él/ella": "mostró",
+      "nosotros": "mostramos",
+      "ellos/ellas": "mostraron"
+    },
+    "imperfect_conjugation": {
+      "yo": "mostraba",
+      "tú": "mostrabas",
+      "él/ella": "mostraba",
+      "nosotros": "mostrábamos",
+      "ellos/ellas": "mostraban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "mucho",
     "english": "much / a lot",
     "part_of_speech": "adjective/adverb",
@@ -8965,6 +11795,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "mudarse",
+    "english": "to move (house)",
+    "part_of_speech": "verb (reflexive)",
+    "grammar_notes": "Regular -AR reflexivo; mudarse de casa.",
+    "grammar_rule": "Regular -AR verb (reflexive)",
+    "categories": [
+      "Casa y hogar",
+      "Ciudad y transporte"
+    ],
+    "gerund": "mudándose",
+    "past_participle": "mudado",
+    "present_conjugation": {
+      "yo": "me mudo",
+      "tú": "te mudas",
+      "él/ella": "se muda",
+      "nosotros": "nos mudamos",
+      "ellos/ellas": "se mudan"
+    },
+    "preterite_conjugation": {
+      "yo": "me mudé",
+      "tú": "te mudaste",
+      "él/ella": "se mudó",
+      "nosotros": "nos mudamos",
+      "ellos/ellas": "se mudaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "me mudaba",
+      "tú": "te mudabas",
+      "él/ella": "se mudaba",
+      "nosotros": "nos mudábamos",
+      "ellos/ellas": "se mudaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "mula",
     "english": "mule",
     "part_of_speech": "noun (f)",
@@ -8972,6 +11840,20 @@
     "grammar_rule": "Feminine noun",
     "categories": [
       "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "muleta",
+    "english": "crutch",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Caminar con muletas.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -9038,6 +11920,21 @@
     "_seed": false
   },
   {
+    "word": "museo",
+    "english": "museum",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Visitar el museo.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Comunicación y cortesía",
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "muslo",
     "english": "thigh",
     "part_of_speech": "noun (m)",
@@ -9056,8 +11953,8 @@
     "word": "nacer",
     "english": "to be born",
     "part_of_speech": "verb",
-    "grammar_notes": "Verbo regular -ER; nací en... (nací en...)",
-    "grammar_rule": "Regular -ER verb",
+    "grammar_notes": "Irregular solo en yo: c→zc (yo nazco); resto regular -ER. Ej.: nací en Guadalajara.",
+    "grammar_rule": "Irregular yo form (c→zc): nazco",
     "categories": [
       "Familia y relaciones",
       "Rutinas diarias"
@@ -9184,6 +12081,44 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 0,
     "_seed": false
+  },
+  {
+    "word": "necesitar",
+    "english": "to need",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "necesitando",
+    "past_participle": "necesitado",
+    "present_conjugation": {
+      "yo": "necesito",
+      "tú": "necesitas",
+      "él/ella": "necesita",
+      "nosotros": "necesitamos",
+      "ellos/ellas": "necesitan"
+    },
+    "preterite_conjugation": {
+      "yo": "necesité",
+      "tú": "necesitaste",
+      "él/ella": "necesitó",
+      "nosotros": "necesitamos",
+      "ellos/ellas": "necesitaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "necesitaba",
+      "tú": "necesitabas",
+      "él/ella": "necesitaba",
+      "nosotros": "necesitábamos",
+      "ellos/ellas": "necesitaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "nervio",
@@ -9571,6 +12506,21 @@
     "_seed": false
   },
   {
+    "word": "olla",
+    "english": "pot",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Olla para el caldo.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Alimentación",
+      "Casa y hogar"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "olvidar",
     "english": "to forget",
     "part_of_speech": "verb",
@@ -9790,6 +12740,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "pachanga",
+    "english": "big party / bash",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Pachanga = fiesta grande y ruidosa.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Cultura tapatía",
+      "Comunicación y cortesía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 \"Pachanga\" = fiestón con música y baile.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "padre",
     "english": "cool / great / awesome (adjective)",
     "part_of_speech": "adjective",
@@ -9802,6 +12767,44 @@
     ],
     "tapatio": true,
     "tapatio_notes": "🌵 Argot mexicano/tapatío clásico — un poco más suave y antiguo que chido pero igualmente común. Usado en todas las generaciones.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "pagar",
+    "english": "to pay",
+    "part_of_speech": "verb",
+    "grammar_notes": "Ortográfico: yo pagué.",
+    "grammar_rule": "Regular -AR verb (-gar→-gué in preterite yo)",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Ciudad y transporte"
+    ],
+    "gerund": "pagando",
+    "past_participle": "pagado",
+    "present_conjugation": {
+      "yo": "pago",
+      "tú": "pagas",
+      "él/ella": "paga",
+      "nosotros": "pagamos",
+      "ellos/ellas": "pagan"
+    },
+    "preterite_conjugation": {
+      "yo": "pagué",
+      "tú": "pagaste",
+      "él/ella": "pagó",
+      "nosotros": "pagamos",
+      "ellos/ellas": "pagaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "pagaba",
+      "tú": "pagabas",
+      "él/ella": "pagaba",
+      "nosotros": "pagábamos",
+      "ellos/ellas": "pagaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -9999,6 +13002,72 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "par",
+    "english": "pair / couple",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Un par de zapatos.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "parada",
+    "english": "stop (bus)",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "La parada del camión.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "parecer",
+    "english": "to seem / to look like",
+    "part_of_speech": "verb",
+    "grammar_notes": "parezco; resto regular -ER.",
+    "grammar_rule": "Irregular yo form (c→zc): parezco",
+    "categories": [
+      "Comunicación y cortesía",
+      "Descripción personal"
+    ],
+    "gerund": "pareciendo",
+    "past_participle": "parecido",
+    "present_conjugation": {
+      "yo": "parezco",
+      "tú": "pareces",
+      "él/ella": "parece",
+      "nosotros": "parecemos",
+      "ellos/ellas": "parecen"
+    },
+    "preterite_conjugation": {
+      "yo": "parecí",
+      "tú": "pareciste",
+      "él/ella": "pareció",
+      "nosotros": "parecimos",
+      "ellos/ellas": "parecieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "parecía",
+      "tú": "parecías",
+      "él/ella": "parecía",
+      "nosotros": "parecíamos",
+      "ellos/ellas": "parecían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "paro",
     "english": "favor / help / a solid",
     "part_of_speech": "noun (m)",
@@ -10014,6 +13083,73 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "parranda",
+    "english": "night out / partying",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Irse de parranda = salir de fiesta.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Cultura tapatía",
+      "Comunicación y cortesía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 \"Irse de parranda\" = salir de fiesta toda la noche.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "pasaporte",
+    "english": "passport",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Documento de viaje.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "pasar",
+    "english": "to pass / happen / spend (time)",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; ¿qué pasó?, pasar tiempo.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Tiempo y frecuencia"
+    ],
+    "gerund": "pasando",
+    "past_participle": "pasado",
+    "present_conjugation": {
+      "yo": "paso",
+      "tú": "pasas",
+      "él/ella": "pasa",
+      "nosotros": "pasamos",
+      "ellos/ellas": "pasan"
+    },
+    "preterite_conjugation": {
+      "yo": "pasé",
+      "tú": "pasaste",
+      "él/ella": "pasó",
+      "nosotros": "pasamos",
+      "ellos/ellas": "pasaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "pasaba",
+      "tú": "pasabas",
+      "él/ella": "pasaba",
+      "nosotros": "pasábamos",
+      "ellos/ellas": "pasaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "pasillo",
     "english": "hallway / corridor",
     "part_of_speech": "noun (m)",
@@ -10021,6 +13157,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Casa y hogar"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "pastilla",
+    "english": "pill / tablet",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Tomar una pastilla.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -10084,6 +13234,35 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "payaso",
+    "english": "clown",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "payaso/payasa; \"hacerse payaso\" = hacerse el gracioso.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Comunicación y cortesía"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "peatón",
+    "english": "pedestrian",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Cruce de peatones.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte",
+      "Orientación y direcciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "pecho",
     "english": "chest",
     "part_of_speech": "noun (m)",
@@ -10097,6 +13276,21 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "pedazo",
+    "english": "piece",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Un pedazo de pan.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "pedir",
@@ -10156,18 +13350,18 @@
       "ellos/ellas": "piden prestado"
     },
     "preterite_conjugation": {
-      "yo": "pedí",
-      "tú": "pediste",
-      "él/ella": "pidió",
-      "nosotros": "pedimos",
-      "ellos/ellas": "pidieron"
+      "yo": "pedí prestado",
+      "tú": "pediste prestado",
+      "él/ella": "pidió prestado",
+      "nosotros": "pedimos prestado",
+      "ellos/ellas": "pidieron prestado"
     },
     "imperfect_conjugation": {
-      "yo": "pedía",
-      "tú": "pedías",
-      "él/ella": "pedía",
-      "nosotros": "pedíamos",
-      "ellos/ellas": "pedían"
+      "yo": "pedía prestado",
+      "tú": "pedías prestado",
+      "él/ella": "pedía prestado",
+      "nosotros": "pedíamos prestado",
+      "ellos/ellas": "pedían prestado"
     },
     "tapatio": false,
     "tapatio_notes": "",
@@ -10219,6 +13413,58 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "pelar",
+    "english": "to peel",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Alimentación"
+    ],
+    "gerund": "pelando",
+    "past_participle": "pelado",
+    "present_conjugation": {
+      "yo": "pelo",
+      "tú": "pelas",
+      "él/ella": "pela",
+      "nosotros": "pelamos",
+      "ellos/ellas": "pelan"
+    },
+    "preterite_conjugation": {
+      "yo": "pelé",
+      "tú": "pelaste",
+      "él/ella": "peló",
+      "nosotros": "pelamos",
+      "ellos/ellas": "pelaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "pelaba",
+      "tú": "pelabas",
+      "él/ella": "pelaba",
+      "nosotros": "pelábamos",
+      "ellos/ellas": "pelaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "película",
+    "english": "movie / film",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Ver una película.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Comunicación y cortesía",
+      "Cultura tapatía"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -10447,6 +13693,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "pesado",
+    "english": "heavy",
+    "part_of_speech": "adjective",
+    "grammar_notes": "pesado/pesada; también persona \"pesada\" = molesta.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Descripción personal"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "pestañas",
     "english": "eyelashes",
     "part_of_speech": "noun (f pl)",
@@ -10472,6 +13733,44 @@
     ],
     "tapatio": false,
     "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "picar",
+    "english": "to chop / to be spicy",
+    "part_of_speech": "verb",
+    "grammar_notes": "Ortográfico: yo piqué. 🌶️ \"pica\" = está enchiloso.",
+    "grammar_rule": "Regular -AR verb (-car→-qué in preterite yo)",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "gerund": "picando",
+    "past_participle": "picado",
+    "present_conjugation": {
+      "yo": "pico",
+      "tú": "picas",
+      "él/ella": "pica",
+      "nosotros": "picamos",
+      "ellos/ellas": "pican"
+    },
+    "preterite_conjugation": {
+      "yo": "piqué",
+      "tú": "picaste",
+      "él/ella": "picó",
+      "nosotros": "picamos",
+      "ellos/ellas": "picaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "picaba",
+      "tú": "picabas",
+      "él/ella": "picaba",
+      "nosotros": "picábamos",
+      "ellos/ellas": "picaban"
+    },
+    "tapatio": true,
+    "tapatio_notes": "🌶️ Uso tapatío.",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -10712,6 +14011,58 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "pomada",
+    "english": "ointment / cream",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Untar pomada.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "poner",
+    "english": "to put / set / place",
+    "part_of_speech": "verb",
+    "grammar_notes": "Yo pongo; pretérito fuerte puse; participio puesto.",
+    "grammar_rule": "Irregular yo form (pongo) + strong preterite (puse)",
+    "categories": [
+      "Rutinas diarias",
+      "Casa y hogar"
+    ],
+    "gerund": "poniendo",
+    "past_participle": "puesto",
+    "present_conjugation": {
+      "yo": "pongo",
+      "tú": "pones",
+      "él/ella": "pone",
+      "nosotros": "ponemos",
+      "ellos/ellas": "ponen"
+    },
+    "preterite_conjugation": {
+      "yo": "puse",
+      "tú": "pusiste",
+      "él/ella": "puso",
+      "nosotros": "pusimos",
+      "ellos/ellas": "pusieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "ponía",
+      "tú": "ponías",
+      "él/ella": "ponía",
+      "nosotros": "poníamos",
+      "ellos/ellas": "ponían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ponerse",
     "english": "to put on (clothes) / to become",
     "part_of_speech": "verb (reflexive)",
@@ -10806,6 +14157,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "postre",
+    "english": "dessert",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "De postre, jericalla.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "potasio",
     "english": "potassium",
     "part_of_speech": "noun (m)",
@@ -10814,6 +14179,82 @@
     "categories": [
       "Medicina y tratamiento"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "preferir",
+    "english": "to prefer",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→ie (prefiero); pretérito prefirió/prefirieron; gerundio prefiriendo.",
+    "grammar_rule": "Stem-changing verb: e→ie (-IR: 3rd-person preterite e→i)",
+    "categories": [
+      "Emociones y estados",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "prefiriendo",
+    "past_participle": "preferido",
+    "present_conjugation": {
+      "yo": "prefiero",
+      "tú": "prefieres",
+      "él/ella": "prefiere",
+      "nosotros": "preferimos",
+      "ellos/ellas": "prefieren"
+    },
+    "preterite_conjugation": {
+      "yo": "preferí",
+      "tú": "preferiste",
+      "él/ella": "prefirió",
+      "nosotros": "preferimos",
+      "ellos/ellas": "prefirieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "prefería",
+      "tú": "preferías",
+      "él/ella": "prefería",
+      "nosotros": "preferíamos",
+      "ellos/ellas": "preferían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "preguntar",
+    "english": "to ask",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; preguntar (hacer preguntas) ≠ pedir.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "preguntando",
+    "past_participle": "preguntado",
+    "present_conjugation": {
+      "yo": "pregunto",
+      "tú": "preguntas",
+      "él/ella": "pregunta",
+      "nosotros": "preguntamos",
+      "ellos/ellas": "preguntan"
+    },
+    "preterite_conjugation": {
+      "yo": "pregunté",
+      "tú": "preguntaste",
+      "él/ella": "preguntó",
+      "nosotros": "preguntamos",
+      "ellos/ellas": "preguntaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "preguntaba",
+      "tú": "preguntabas",
+      "él/ella": "preguntaba",
+      "nosotros": "preguntábamos",
+      "ellos/ellas": "preguntaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -11056,6 +14497,20 @@
       "nosotros": "producíamos",
       "ellos/ellas": "producían"
     },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "profundo",
+    "english": "deep",
+    "part_of_speech": "adjective",
+    "grammar_notes": "profundo/profunda.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -11372,6 +14827,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "quirófano",
+    "english": "operating room",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Entrar al quirófano.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Medicina y tratamiento"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "quitarse",
     "english": "to take off (clothing)",
     "part_of_speech": "verb (reflexive)",
@@ -11439,6 +14908,20 @@
     "_seed": false
   },
   {
+    "word": "radiografía",
+    "english": "x-ray",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Sacar una radiografía.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "rana",
     "english": "frog",
     "part_of_speech": "noun (f)",
@@ -11460,6 +14943,21 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "rebanada",
+    "english": "slice",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Una rebanada de pan o pastel.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -11490,6 +14988,43 @@
       "Alimentación",
       "Medicina y tratamiento"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "recetar",
+    "english": "to prescribe",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; el médico receta.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Medicina y tratamiento"
+    ],
+    "gerund": "recetando",
+    "past_participle": "recetado",
+    "present_conjugation": {
+      "yo": "receto",
+      "tú": "recetas",
+      "él/ella": "receta",
+      "nosotros": "recetamos",
+      "ellos/ellas": "recetan"
+    },
+    "preterite_conjugation": {
+      "yo": "receté",
+      "tú": "recetaste",
+      "él/ella": "recetó",
+      "nosotros": "recetamos",
+      "ellos/ellas": "recetaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "recetaba",
+      "tú": "recetabas",
+      "él/ella": "recetaba",
+      "nosotros": "recetábamos",
+      "ellos/ellas": "recetaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -11547,6 +15082,97 @@
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 2,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "recibir",
+    "english": "to receive",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -IR.",
+    "grammar_rule": "Regular -IR verb",
+    "categories": [
+      "Comunicación y cortesía",
+      "Rutinas diarias"
+    ],
+    "gerund": "recibiendo",
+    "past_participle": "recibido",
+    "present_conjugation": {
+      "yo": "recibo",
+      "tú": "recibes",
+      "él/ella": "recibe",
+      "nosotros": "recibimos",
+      "ellos/ellas": "reciben"
+    },
+    "preterite_conjugation": {
+      "yo": "recibí",
+      "tú": "recibiste",
+      "él/ella": "recibió",
+      "nosotros": "recibimos",
+      "ellos/ellas": "recibieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "recibía",
+      "tú": "recibías",
+      "él/ella": "recibía",
+      "nosotros": "recibíamos",
+      "ellos/ellas": "recibían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "recordar",
+    "english": "to remember",
+    "part_of_speech": "verb",
+    "grammar_notes": "o→ue: recuerdo; nosotros recordamos.",
+    "grammar_rule": "Stem-changing verb: o→ue",
+    "categories": [
+      "Rutinas diarias",
+      "Emociones y estados"
+    ],
+    "gerund": "recordando",
+    "past_participle": "recordado",
+    "present_conjugation": {
+      "yo": "recuerdo",
+      "tú": "recuerdas",
+      "él/ella": "recuerda",
+      "nosotros": "recordamos",
+      "ellos/ellas": "recuerdan"
+    },
+    "preterite_conjugation": {
+      "yo": "recordé",
+      "tú": "recordaste",
+      "él/ella": "recordó",
+      "nosotros": "recordamos",
+      "ellos/ellas": "recordaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "recordaba",
+      "tú": "recordabas",
+      "él/ella": "recordaba",
+      "nosotros": "recordábamos",
+      "ellos/ellas": "recordaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "recuerdo",
+    "english": "souvenir / memory",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Comprar un recuerdo del viaje.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte",
+      "Emociones y estados"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
   {
@@ -11709,6 +15335,60 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "repetir",
+    "english": "to repeat",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→i: repito; pretérito repitió; gerundio repitiendo.",
+    "grammar_rule": "Stem-changing verb: e→i",
+    "categories": [
+      "Comunicación y cortesía",
+      "Alimentación"
+    ],
+    "gerund": "repitiendo",
+    "past_participle": "repetido",
+    "present_conjugation": {
+      "yo": "repito",
+      "tú": "repites",
+      "él/ella": "repite",
+      "nosotros": "repetimos",
+      "ellos/ellas": "repiten"
+    },
+    "preterite_conjugation": {
+      "yo": "repetí",
+      "tú": "repetiste",
+      "él/ella": "repitió",
+      "nosotros": "repetimos",
+      "ellos/ellas": "repitieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "repetía",
+      "tú": "repetías",
+      "él/ella": "repetía",
+      "nosotros": "repetíamos",
+      "ellos/ellas": "repetían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "reservación",
+    "english": "reservation",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Uso mexicano: \"reservación\" (España: \"reserva\").",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte",
+      "Comunicación y cortesía",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 México usa \"reservación\"; España \"reserva\".",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "resfriado",
     "english": "cold (illness)",
     "part_of_speech": "adjective/noun",
@@ -11732,6 +15412,44 @@
     "categories": [
       "Medicina y tratamiento"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "respirar",
+    "english": "to breathe",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Salud y síntomas",
+      "Anatomía y cuerpo"
+    ],
+    "gerund": "respirando",
+    "past_participle": "respirado",
+    "present_conjugation": {
+      "yo": "respiro",
+      "tú": "respiras",
+      "él/ella": "respira",
+      "nosotros": "respiramos",
+      "ellos/ellas": "respiran"
+    },
+    "preterite_conjugation": {
+      "yo": "respiré",
+      "tú": "respiraste",
+      "él/ella": "respiró",
+      "nosotros": "respiramos",
+      "ellos/ellas": "respiraron"
+    },
+    "imperfect_conjugation": {
+      "yo": "respiraba",
+      "tú": "respirabas",
+      "él/ella": "respiraba",
+      "nosotros": "respirábamos",
+      "ellos/ellas": "respiraban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -11841,6 +15559,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "ruta",
+    "english": "route",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "La ruta del camión.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Ciudad y transporte",
+      "Orientación y direcciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "saber",
     "english": "to know (facts/skills)",
     "part_of_speech": "verb",
@@ -11873,6 +15606,20 @@
       "nosotros": "sabíamos",
       "ellos/ellas": "sabían"
     },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "sabor",
+    "english": "flavor",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "¿De qué sabor?",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación"
+    ],
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -12085,6 +15832,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "sangrar",
+    "english": "to bleed",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Salud y síntomas",
+      "Anatomía y cuerpo"
+    ],
+    "gerund": "sangrando",
+    "past_participle": "sangrado",
+    "present_conjugation": {
+      "yo": "sangro",
+      "tú": "sangras",
+      "él/ella": "sangra",
+      "nosotros": "sangramos",
+      "ellos/ellas": "sangran"
+    },
+    "preterite_conjugation": {
+      "yo": "sangré",
+      "tú": "sangraste",
+      "él/ella": "sangró",
+      "nosotros": "sangramos",
+      "ellos/ellas": "sangraron"
+    },
+    "imperfect_conjugation": {
+      "yo": "sangraba",
+      "tú": "sangrabas",
+      "él/ella": "sangraba",
+      "nosotros": "sangrábamos",
+      "ellos/ellas": "sangraban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "sangre",
     "english": "blood",
     "part_of_speech": "noun (f)",
@@ -12107,6 +15892,50 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "sarpullido",
+    "english": "rash",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Sarpullido en la piel.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Salud y síntomas"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "sartén",
+    "english": "frying pan",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "En México suele ser femenino: la sartén.",
+    "grammar_rule": "Feminine noun (also used as masculine in some regions)",
+    "categories": [
+      "Alimentación",
+      "Casa y hogar"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "seco",
+    "english": "dry",
+    "part_of_speech": "adjective",
+    "grammar_notes": "seco/seca.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -12225,6 +16054,82 @@
     "_seed": true
   },
   {
+    "word": "sentarse",
+    "english": "to sit down",
+    "part_of_speech": "verb (reflexive)",
+    "grammar_notes": "e→ie: me siento; nosotros nos sentamos.",
+    "grammar_rule": "Stem-changing verb: e→ie (reflexive)",
+    "categories": [
+      "Rutinas diarias",
+      "Casa y hogar"
+    ],
+    "gerund": "sentándose",
+    "past_participle": "sentado",
+    "present_conjugation": {
+      "yo": "me siento",
+      "tú": "te sientas",
+      "él/ella": "se sienta",
+      "nosotros": "nos sentamos",
+      "ellos/ellas": "se sientan"
+    },
+    "preterite_conjugation": {
+      "yo": "me senté",
+      "tú": "te sentaste",
+      "él/ella": "se sentó",
+      "nosotros": "nos sentamos",
+      "ellos/ellas": "se sentaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "me sentaba",
+      "tú": "te sentabas",
+      "él/ella": "se sentaba",
+      "nosotros": "nos sentábamos",
+      "ellos/ellas": "se sentaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "sentir",
+    "english": "to feel / to be sorry",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→ie (siento); pretérito sintió; gerundio sintiendo.",
+    "grammar_rule": "Stem-changing verb: e→ie (-IR: 3rd-person preterite e→i)",
+    "categories": [
+      "Emociones y estados",
+      "Salud y síntomas"
+    ],
+    "gerund": "sintiendo",
+    "past_participle": "sentido",
+    "present_conjugation": {
+      "yo": "siento",
+      "tú": "sientes",
+      "él/ella": "siente",
+      "nosotros": "sentimos",
+      "ellos/ellas": "sienten"
+    },
+    "preterite_conjugation": {
+      "yo": "sentí",
+      "tú": "sentiste",
+      "él/ella": "sintió",
+      "nosotros": "sentimos",
+      "ellos/ellas": "sintieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "sentía",
+      "tú": "sentías",
+      "él/ella": "sentía",
+      "nosotros": "sentíamos",
+      "ellos/ellas": "sentían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "sentirse",
     "english": "to feel (emotionally/physically)",
     "part_of_speech": "verb (reflexive)",
@@ -12302,6 +16207,21 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "serenata",
+    "english": "serenade",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Llevar serenata con mariachi.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Cultura tapatía",
+      "Comunicación y cortesía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 Llevar serenata con mariachi es tradición tapatía.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "serpiente",
     "english": "snake",
     "part_of_speech": "noun (f)",
@@ -12310,6 +16230,44 @@
     "categories": [
       "Animales"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "servir",
+    "english": "to serve",
+    "part_of_speech": "verb",
+    "grammar_notes": "e→i: sirvo; pretérito sirvió; gerundio sirviendo.",
+    "grammar_rule": "Stem-changing verb: e→i",
+    "categories": [
+      "Alimentación",
+      "Rutinas diarias"
+    ],
+    "gerund": "sirviendo",
+    "past_participle": "servido",
+    "present_conjugation": {
+      "yo": "sirvo",
+      "tú": "sirves",
+      "él/ella": "sirve",
+      "nosotros": "servimos",
+      "ellos/ellas": "sirven"
+    },
+    "preterite_conjugation": {
+      "yo": "serví",
+      "tú": "serviste",
+      "él/ella": "sirvió",
+      "nosotros": "servimos",
+      "ellos/ellas": "sirvieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "servía",
+      "tú": "servías",
+      "él/ella": "servía",
+      "nosotros": "servíamos",
+      "ellos/ellas": "servían"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -12570,6 +16528,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "subir",
+    "english": "to go up / get on",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -IR; subir(se) al camión.",
+    "grammar_rule": "Regular -IR verb",
+    "categories": [
+      "Ciudad y transporte",
+      "Rutinas diarias"
+    ],
+    "gerund": "subiendo",
+    "past_participle": "subido",
+    "present_conjugation": {
+      "yo": "subo",
+      "tú": "subes",
+      "él/ella": "sube",
+      "nosotros": "subimos",
+      "ellos/ellas": "suben"
+    },
+    "preterite_conjugation": {
+      "yo": "subí",
+      "tú": "subiste",
+      "él/ella": "subió",
+      "nosotros": "subimos",
+      "ellos/ellas": "subieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "subía",
+      "tú": "subías",
+      "él/ella": "subía",
+      "nosotros": "subíamos",
+      "ellos/ellas": "subían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "subjuntivo",
     "english": "subjunctive mood (grammar)",
     "part_of_speech": "grammar term",
@@ -12639,6 +16635,58 @@
     ],
     "tapatio": true,
     "tapatio_notes": "Tapatíos say suéter; Spaniards say jersey 🌵",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "suficiente",
+    "english": "enough",
+    "part_of_speech": "adjective",
+    "grammar_notes": "Invariable en género; concuerda en número.",
+    "grammar_rule": "Adjective invariable by gender (ends in -e)",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "sufrir",
+    "english": "to suffer",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -IR; sufrir de algo.",
+    "grammar_rule": "Regular -IR verb",
+    "categories": [
+      "Salud y síntomas",
+      "Emociones y estados"
+    ],
+    "gerund": "sufriendo",
+    "past_participle": "sufrido",
+    "present_conjugation": {
+      "yo": "sufro",
+      "tú": "sufres",
+      "él/ella": "sufre",
+      "nosotros": "sufrimos",
+      "ellos/ellas": "sufren"
+    },
+    "preterite_conjugation": {
+      "yo": "sufrí",
+      "tú": "sufriste",
+      "él/ella": "sufrió",
+      "nosotros": "sufrimos",
+      "ellos/ellas": "sufrieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "sufría",
+      "tú": "sufrías",
+      "él/ella": "sufría",
+      "nosotros": "sufríamos",
+      "ellos/ellas": "sufrían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -12745,6 +16793,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "teatro",
+    "english": "theater",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "El Teatro Degollado en GDL.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Comunicación y cortesía"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "techo",
     "english": "ceiling / roof",
     "part_of_speech": "noun (m)",
@@ -12772,6 +16834,36 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "tejuino",
+    "english": "tejuino (fermented corn drink)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Bebida fría de maíz fermentado con limón y chile.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌶️ Bebida callejera tapatía de maíz, limón y chile.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "telenovela",
+    "english": "soap opera",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Las telenovelas mexicanas.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Comunicación y cortesía",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 Las telenovelas son un fenómeno cultural mexicano.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "temporada",
@@ -12855,6 +16947,59 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "tequila",
+    "english": "tequila",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Del pueblo de Tequila, Jalisco.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Cultura tapatía",
+      "Alimentación"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌵 ¡El tequila es de Jalisco! Del pueblo de Tequila.",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "terminar",
+    "english": "to finish / end",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; sinónimo acabar.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Tiempo y frecuencia"
+    ],
+    "gerund": "terminando",
+    "past_participle": "terminado",
+    "present_conjugation": {
+      "yo": "termino",
+      "tú": "terminas",
+      "él/ella": "termina",
+      "nosotros": "terminamos",
+      "ellos/ellas": "terminan"
+    },
+    "preterite_conjugation": {
+      "yo": "terminé",
+      "tú": "terminaste",
+      "él/ella": "terminó",
+      "nosotros": "terminamos",
+      "ellos/ellas": "terminaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "terminaba",
+      "tú": "terminabas",
+      "él/ella": "terminaba",
+      "nosotros": "terminábamos",
+      "ellos/ellas": "terminaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "terraza",
     "english": "terrace (detached outdoor space)",
     "part_of_speech": "noun (f)",
@@ -12896,6 +17041,21 @@
     "leitner_box": 2,
     "leitner_sessions_until_due": 1,
     "_seed": false
+  },
+  {
+    "word": "tibio",
+    "english": "lukewarm",
+    "part_of_speech": "adjective",
+    "grammar_notes": "tibio/tibia.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Alimentación"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
   },
   {
     "word": "tiburón",
@@ -13108,6 +17268,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "tomar",
+    "english": "to take / drink",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR; también \"tomar\" = beber.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias",
+      "Alimentación"
+    ],
+    "gerund": "tomando",
+    "past_participle": "tomado",
+    "present_conjugation": {
+      "yo": "tomo",
+      "tú": "tomas",
+      "él/ella": "toma",
+      "nosotros": "tomamos",
+      "ellos/ellas": "toman"
+    },
+    "preterite_conjugation": {
+      "yo": "tomé",
+      "tú": "tomaste",
+      "él/ella": "tomó",
+      "nosotros": "tomamos",
+      "ellos/ellas": "tomaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "tomaba",
+      "tú": "tomabas",
+      "él/ella": "tomaba",
+      "nosotros": "tomábamos",
+      "ellos/ellas": "tomaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "tomate",
     "english": "tomatillo (green tomato)",
     "part_of_speech": "noun (m)",
@@ -13218,6 +17416,21 @@
     ],
     "tapatio": true,
     "tapatio_notes": "La torta tapatía en bolillo es un clásico del almuerzo en GDL 🌵 (Nota: en España, torta = pastel)",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "torta ahogada",
+    "english": "torta ahogada (drowned sandwich)",
+    "part_of_speech": "noun phrase (f)",
+    "grammar_notes": "Platillo típico tapatío: birote bañado en salsa de jitomate y chile.",
+    "grammar_rule": "Feminine noun phrase",
+    "categories": [
+      "Alimentación",
+      "Cultura tapatía"
+    ],
+    "tapatio": true,
+    "tapatio_notes": "🌶️ ¡El platillo más tapatío! Birote ahogado en salsa picante.",
     "leitner_box": 1,
     "leitner_sessions_until_due": 0
   },
@@ -13583,6 +17796,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "turista",
+    "english": "tourist",
+    "part_of_speech": "noun (m/f)",
+    "grammar_notes": "Mismo para m/f: el/la turista.",
+    "grammar_rule": "Noun: common gender (el/la turista)",
+    "categories": [
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "ubicación",
     "english": "location",
     "part_of_speech": "noun (f)",
@@ -13656,6 +17883,43 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "usar",
+    "english": "to use",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Rutinas diarias"
+    ],
+    "gerund": "usando",
+    "past_participle": "usado",
+    "present_conjugation": {
+      "yo": "uso",
+      "tú": "usas",
+      "él/ella": "usa",
+      "nosotros": "usamos",
+      "ellos/ellas": "usan"
+    },
+    "preterite_conjugation": {
+      "yo": "usé",
+      "tú": "usaste",
+      "él/ella": "usó",
+      "nosotros": "usamos",
+      "ellos/ellas": "usaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "usaba",
+      "tú": "usabas",
+      "él/ella": "usaba",
+      "nosotros": "usábamos",
+      "ellos/ellas": "usaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "usualmente",
     "english": "usually",
     "part_of_speech": "adverb",
@@ -13691,6 +17955,49 @@
     "grammar_rule": "Feminine noun",
     "categories": [
       "Animales"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "vacante",
+    "english": "vacant / vacancy",
+    "part_of_speech": "adjective",
+    "grammar_notes": "Invariable en género.",
+    "grammar_rule": "Adjective invariable by gender (ends in -e)",
+    "categories": [
+      "Cantidades y comparaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "vacío",
+    "english": "empty",
+    "part_of_speech": "adjective",
+    "grammar_notes": "vacío/vacía; con ESTAR.",
+    "grammar_rule": "Adjective with -o/-a gender agreement",
+    "categories": [
+      "Cantidades y comparaciones",
+      "Descripción personal"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "vacuna",
+    "english": "vaccine",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Ponerse la vacuna.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento"
     ],
     "tapatio": false,
     "tapatio_notes": "",
@@ -13824,6 +18131,20 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "venda",
+    "english": "bandage",
+    "part_of_speech": "noun (f)",
+    "grammar_notes": "Vendar la herida.",
+    "grammar_rule": "Feminine noun",
+    "categories": [
+      "Medicina y tratamiento"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "venderse",
     "english": "to sell (reflexive/passive)",
     "part_of_speech": "verb",
@@ -13893,6 +18214,44 @@
       "él/ella": "venía",
       "nosotros": "veníamos",
       "ellos/ellas": "venían"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "ver",
+    "english": "to see / watch",
+    "part_of_speech": "verb",
+    "grammar_notes": "Irregular: yo veo, imperfecto veía; participio visto.",
+    "grammar_rule": "Irregular yo form (veo) + irregular imperfect (veía)",
+    "categories": [
+      "Rutinas diarias",
+      "Comunicación y cortesía"
+    ],
+    "gerund": "viendo",
+    "past_participle": "visto",
+    "present_conjugation": {
+      "yo": "veo",
+      "tú": "ves",
+      "él/ella": "ve",
+      "nosotros": "vemos",
+      "ellos/ellas": "ven"
+    },
+    "preterite_conjugation": {
+      "yo": "vi",
+      "tú": "viste",
+      "él/ella": "vio",
+      "nosotros": "vimos",
+      "ellos/ellas": "vieron"
+    },
+    "imperfect_conjugation": {
+      "yo": "veía",
+      "tú": "veías",
+      "él/ella": "veía",
+      "nosotros": "veíamos",
+      "ellos/ellas": "veían"
     },
     "tapatio": false,
     "tapatio_notes": "",
@@ -13995,6 +18354,44 @@
     "leitner_sessions_until_due": 0
   },
   {
+    "word": "viajar",
+    "english": "to travel",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Ciudad y transporte",
+      "Rutinas diarias"
+    ],
+    "gerund": "viajando",
+    "past_participle": "viajado",
+    "present_conjugation": {
+      "yo": "viajo",
+      "tú": "viajas",
+      "él/ella": "viaja",
+      "nosotros": "viajamos",
+      "ellos/ellas": "viajan"
+    },
+    "preterite_conjugation": {
+      "yo": "viajé",
+      "tú": "viajaste",
+      "él/ella": "viajó",
+      "nosotros": "viajamos",
+      "ellos/ellas": "viajaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "viajaba",
+      "tú": "viajabas",
+      "él/ella": "viajaba",
+      "nosotros": "viajábamos",
+      "ellos/ellas": "viajaban"
+    },
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "viaje",
     "english": "trip / travel",
     "part_of_speech": "noun (m)",
@@ -14061,6 +18458,44 @@
       "Ropa y accesorios",
       "Cultura tapatía"
     ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "visitar",
+    "english": "to visit",
+    "part_of_speech": "verb",
+    "grammar_notes": "Regular -AR.",
+    "grammar_rule": "Regular -AR verb",
+    "categories": [
+      "Ciudad y transporte",
+      "Familia y relaciones"
+    ],
+    "gerund": "visitando",
+    "past_participle": "visitado",
+    "present_conjugation": {
+      "yo": "visito",
+      "tú": "visitas",
+      "él/ella": "visita",
+      "nosotros": "visitamos",
+      "ellos/ellas": "visitan"
+    },
+    "preterite_conjugation": {
+      "yo": "visité",
+      "tú": "visitaste",
+      "él/ella": "visitó",
+      "nosotros": "visitamos",
+      "ellos/ellas": "visitaron"
+    },
+    "imperfect_conjugation": {
+      "yo": "visitaba",
+      "tú": "visitabas",
+      "él/ella": "visitaba",
+      "nosotros": "visitábamos",
+      "ellos/ellas": "visitaban"
+    },
     "tapatio": false,
     "tapatio_notes": "",
     "leitner_box": 1,
@@ -14217,6 +18652,20 @@
     "_seed": false
   },
   {
+    "word": "vuelo",
+    "english": "flight",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Un vuelo directo.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Ciudad y transporte"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
     "word": "warfarina",
     "english": "warfarin (Coumadin)",
     "part_of_speech": "noun (f)",
@@ -14252,6 +18701,20 @@
     "grammar_rule": "Masculine noun",
     "categories": [
       "Familia y relaciones"
+    ],
+    "tapatio": false,
+    "tapatio_notes": "",
+    "leitner_box": 1,
+    "leitner_sessions_until_due": 0
+  },
+  {
+    "word": "yeso",
+    "english": "cast (plaster)",
+    "part_of_speech": "noun (m)",
+    "grammar_notes": "Enyesar; traer yeso.",
+    "grammar_rule": "Masculine noun",
+    "categories": [
+      "Medicina y tratamiento"
     ],
     "tapatio": false,
     "tapatio_notes": "",

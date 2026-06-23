@@ -165,7 +165,11 @@ h2.sec{font-family:'Oswald',sans-serif;font-weight:600;color:var(--cobalt-dk);
       <p class="muted" id="leitner-info" style="margin-top:8px"></p>
     </div>
     <button class="btn btn-go" onclick="startBattery()">¡Empezar! 🌶️</button>
-    <div style="text-align:center"><a class="backlink" href="index.html">← Volver al menú</a></div>
+    <div style="text-align:center;margin-top:14px">
+      <button class="btn btn-ghost" id="btn-refresh" onclick="updateDict()" style="font-size:.82rem;padding:8px 16px">🔄 Actualizar diccionario</button>
+    </div>
+    <p class="muted" id="dict-info" style="text-align:center;margin-top:8px"></p>
+    <div style="text-align:center;margin-top:10px"><a class="backlink" href="index.html">← Volver al menú</a></div>
   </section>
 
   <!-- PLAY -->
@@ -258,6 +262,22 @@ function fetchDict(){
     .then(function(raw){localStorage.setItem(LS_DICT,JSON.stringify(raw));ingest(raw);})
     .catch(function(){show('load-screen');});
 }
+// Force a fresh fetch from the server, overwriting the cached dictionary (Leitner progress preserved).
+function updateDict(){
+  var btn=$('btn-refresh');
+  if(btn){btn.disabled=true;btn.textContent='Actualizando…';}
+  fetch('spanish_dictionary.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json();})
+    .then(function(raw){
+      localStorage.setItem(LS_DICT,JSON.stringify(raw));
+      ingest(raw);   // re-classify + rebuild setup; applyStoredLeitner keeps your boxes
+      toast('Diccionario actualizado: '+raw.length+' palabras');
+      if(btn){btn.disabled=false;btn.textContent='🔄 Actualizar diccionario';}
+    })
+    .catch(function(){
+      toast('No se pudo actualizar (¿estás offline o en file://?)');
+      if(btn){btn.disabled=false;btn.textContent='🔄 Actualizar diccionario';}
+    });
+}
 function readFile(file){
   var rd=new FileReader();
   rd.onload=function(e){try{var raw=JSON.parse(e.target.result);
@@ -275,6 +295,7 @@ function buildSetup(){
     b.className='round-btn'+(n===settings.rounds?' sel':'');b.textContent=n;
     b.onclick=function(){settings.rounds=n;buildSetup();};rr.appendChild(b);})(i);}
   $('rounds-info').textContent=(settings.rounds*10)+' oraciones en total · cada una distinta.';
+  if($('dict-info')&&workingData){$('dict-info').textContent='Diccionario cargado: '+workingData.length+' palabras.';}
   // leitner snapshot
   var counts={1:0,2:0,3:0,4:0,5:0},due=0;
   workingData.forEach(function(c){var b=c.leitner_box||1;if(counts[b]!==undefined)counts[b]++;
